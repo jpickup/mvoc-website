@@ -1,0 +1,565 @@
+MOLE VALLEY BADGE EVENT - RANMORE COMMON 7/1/01
+
+START LIST BY CLASS                23:50h 04/01/01  Page   1
+
+
+
+Class: M10B Course: 12 1.5km 30m 9 Controls 
+
+  72 Jonathan     CRICKMORE            SO     10:02:00
+  96 William      DUCKWORTH            TVOC   11:22:00
+
+
+Class: M12A Course: 10 2.7km 80m 10 Controls 
+
+ 241 Graham       PARKES               HH     10:02:00
+ 176 Mark         ANDREWS              CROC   10:36:00
+ 197 Timothy      STREET               HH     10:48:00
+
+
+Class: M14A Course: 08 3.9km 115m 12 Controls 
+
+ 151 Luke         PARKER               SO     10:08:00
+ 129 Thomas       BRIDGE               SO     10:41:00
+ 337 Matthew      STANDELL             TVOC   11:02:00
+ 132 Timothy      CAPRON               TVOC   11:30:00
+ 340 James        LYNE                 SOS    11:34:00
+
+
+Class: M14B Course: 10 2.7km 80m 10 Controls 
+
+ 342 Nathan       CZYZEWICZ            SOS    11:36:00
+
+
+Class: M16A Course: 04 5.7km 185m 16 Controls 
+
+ 318 Gavin        BUCKLE               MV     10:13:00
+ 196 Jonathan     STREET               HH     10:46:00
+  55 Richard      FLINT                BKO    11:06:00
+ 275 Ross         SANDERSON            TVOC   11:46:00
+ 276 Christopher  SANDERSON            TVOC   11:50:00
+
+
+Class: M16B Course: 08 3.9km 115m 12 Controls 
+
+  56 Peter        MAY                  BKO    11:06:00
+  57 Steven       HART                 BKO    11:10:00
+
+
+Class: M18A Course: 03 7.1km 250m 20 Controls 
+
+  67 Christopher  SELLENS              SOS    11:07:00
+
+
+Class: M20L Course: 02 8.5km 275m 22 Controls 
+
+ 117 Alex         WISE                 SO     10:44:00
+
+
+Class: M21L Course: 01 10.3km 330m 23 Controls 
+
+ 283 Graham       GRISTWOOD            MV     10:01:00
+  78 Laurence     TOWNLEY              MV     10:05:00
+ 167 David        CURRIE               SOC    10:09:00
+ 292 Ken          WICKHAM              CHIG   10:11:00
+ 193 Charles      BROMLEY-GARDNER      BAOC   10:17:00
+ 157 Mike         MUGGERIDGE           HAVOC  10:25:00
+ 234 Darrell      HIGH                 CROC   10:51:00
+ 131 Stephen      WARE                 SMOC   10:55:00
+ 237 John         CROWTHER             CROC   10:59:00
+  75 Paul         KEEBLE               SN     11:05:00
+  74 Andrew       NASH                 SOC    11:15:00
+ 203 Keith        TONKIN               GO     11:21:00
+ 314 Mark         WILKINS              SAX    11:25:00
+ 262 Martin       POTTER               LOK    11:41:00
+ 322 Edward       CATMUR               SLOW   12:12:00
+ 226 Kenny        LEITCH               SO     12:18:00
+ 284 Andrew       POWELL               MV     12:20:00
+ 192 Andrew       ROWE                 POTOC  12:22:00
+ 145 Tony         BURTON               MV     12:26:00
+ 191 Mark         ROWE                 MV     12:30:00
+
+
+Class: M21S Course: 03 7.1km 250m 20 Controls 
+
+ 200 William      NEVILLE              SO     10:13:00
+   2 Mark         CHEESMAN             MV     10:21:00
+ 232 Paul         WHISTON              CROC   10:52:00
+ 343 David        HOWSAM               AUOC   11:12:00
+ 149 Paul         LINDFIELD            BKO    11:37:00
+ 204 Pete         INNESS               BKO    11:45:00
+ 206 David        FUNNELL              SO     11:47:00
+  48 Dylan        UNDERHILL            DFOK   12:05:00
+  12 Jacob        SHARPE               HH     12:07:00
+
+
+Class: M35L Course: 02 8.5km 275m 22 Controls 
+
+  69 Neil         CRICKMORE            SO     10:04:00
+ 120 Paul         FOX                  SN     10:22:00
+ 188 Jonathon     COUNSELL             SN     10:26:00
+  36 Steve        JARVIS               SO     10:30:00
+ 329 Ian          CLAYTON              WAOC   10:34:00
+ 347 Robert       HEASMAN              SO     10:36:00
+ 291 Paul         SZARVAS              SLOW   10:40:00
+  63 Peter        CHAPMAN              SO     10:50:00
+ 110 Mark         ADAMS                HH     10:58:00
+  77 Stephen      MCKINLEY             SN     11:02:00
+ 137 Alan         HICKLING             SAX    11:06:00
+ 238 Simon        TURTON               CROC   11:10:00
+  58 Paul         WILSON               SO     11:12:00
+  20 Steve        BIRD                 SAX    11:18:00
+ 319 Magnus       DAVIDSON             TVOC   11:20:00
+ 313 John         WILKINS              SAX    11:22:00
+ 260 Peter        SACARES              LOK    11:42:00
+ 293 Mick         BRETT                LOK    12:10:00
+ 173 Timothy      MARTLAND             MDOC   12:14:00
+ 210 Simon        ERRINGTON            LOK    12:20:00
+
+
+Class: M35S Course: 04 5.7km 185m 16 Controls 
+
+ 103 Timothy      KEOGH                MV     09:56:00
+ 272 Andrew       WOOD                 MV     10:08:00
+  10 Keith        ELLIS                BKO    10:14:00
+ 183 Graham       PERRY                HH     10:34:00
+ 225 Mark         BRISTOW              TVOC   11:16:00
+  52 David        SAUNDERS             HH     11:26:00
+ 352 John         HORBURY              BAOC   11:37:00
+ 221 Alan         WILSON               BKO    11:38:00
+ 261 Timothy      MARLOW               LOK    11:52:00
+ 264 Ollie        HEKKINEN             LOK    11:56:00
+
+
+Class: M40L Course: 02 8.5km 275m 22 Controls 
+
+ 239 Kevin        PARKES               HH     10:06:00
+ 214 Stuart       GREEN                BKO    10:08:00
+  16 Andy         MORRISON             SLOW   10:10:00
+ 277 Neil         BROOKS               LOK    10:12:00
+  79 Tim          STANSFELD            GO     10:14:00
+  93 David        HOWARTH              SO     10:18:00
+ 194 Clive        STREET               HH     10:48:00
+ 273 Paul         CANHAM               SLOW   10:54:00
+ 144 Adrian       HOLLMAN              DFOK   11:08:00
+  83 Ilkka        ANNILA               SOC    11:14:00
+  95 Colin        DUCKWORTH            TVOC   11:24:00
+ 112 Timothy      CARDER               SO     11:28:00
+ 351 Patrick      RICHARDS             BAOC   11:34:00
+ 339 Mark         LYNE                 SOS    11:38:00
+
+
+Class: M40S Course: 04 5.7km 185m 16 Controls 
+
+ 199 Michael      MERRITT              SO     10:16:00
+ 189 David        MCKENNA              SLOW   10:42:00
+   5 John         WALTON               SO     10:52:00
+ 100 Graham       WILLIAMS             LOK    11:02:00
+ 336 Eric         HERITAGE             LEI    11:19:00
+   1 Paul         FROST                TVOC   11:22:00
+ 258 Duncan       MINTY                LOK    11:48:00
+
+
+Class: M45L Course: 03 7.1km 250m 20 Controls 
+
+ 323 Colin        POCKLINGTON          SO     10:00:00
+ 213 Alan         WALLIS               SN     10:03:00
+ 271 John         SMEWING              MV     10:06:00
+  99 David        LANE                 SN     10:11:00
+ 317 Chris        BUCKLE               MV     10:14:00
+ 255 John         DUFFIELD             CHIG   10:16:00
+  97 Jeremy       WILDE                GO     10:17:00
+  41 Andrew       CUMMINGS             HH     10:19:00
+  98 Roger        MURAY                GO     10:25:00
+ 201 Charlie      TURNER               SLOW   10:27:00
+ 141 Ian          GOODWIN              SO     10:29:00
+ 308 Andrew       MORGAN-GILES         TVOC   10:32:00
+ 215 Ian          SMITH                WAOC   10:37:00
+ 153 Mark         THOMPSON             TVOC   10:41:00
+ 126 Andy         BRIDGE               SO     10:43:00
+  76 Pete         JONES                SN     10:59:00
+  65 Martin       SELLENS              SOS    11:03:00
+   6 Robin        SMITH                SO     11:05:00
+  29 Vincent      JOYCE                SO     11:09:00
+  39 Paul         LANGSTON             HH     11:21:00
+  40 John         WALMSLEY             WIM    11:27:00
+ 332 Clive        TANT                 SOS    11:32:00
+ 105 Kieran       DEVINE               SO     11:33:00
+ 122 Joe          HOUSE                RMOC   11:35:00
+ 341 Steve        CZYZEWICZ            SOS    11:40:00
+  49 Laurie       ROSE                 BADO   11:43:00
+ 198 Stephen      TEMPLETON            HH     12:01:00
+ 218 Andrew       HANNAFORD            SO     12:09:00
+ 320 Richard      CATMUR               SLOW   12:11:00
+ 285 Martin       POWELL               MV     12:21:00
+ 306 Ian          DITCHFIELD           MV     12:25:00
+
+
+Class: M45S Course: 05 4.4km 135m 15 Controls 
+
+ 174 Ian          ANDREWS              CROC   10:37:00
+  54 Tim          BOOTH                BKO    11:09:00
+  82 Ian          LAWSON               WAOC   11:13:00
+  17 Dave         CUSSENS              SO     11:15:00
+ 259 Nick         VASS                 LOK    11:46:00
+  33 Ranald       MACDONALD            DVO    11:49:00
+ 300 Robert       BERRY                GO     12:09:00
+
+
+Class: M50L Course: 03 7.1km 250m 20 Controls 
+
+ 304 Mike         BOLTON               MV     09:53:00
+ 305 Peter        HEYWOOD              MV     09:57:00
+ 216 Jon          MOORE                MV     10:01:00
+ 326 John         CHAPPELL             MDDXO  10:02:00
+  11 Ian          WILSON               SAX    10:05:00
+ 184 John         WHITE                GO     10:07:00
+ 282 Philip       GRISTWOOD            MV     10:10:00
+ 108 Richard      BLAKE                LOK    10:15:00
+ 307 Douglas      KENNEDY              SN     10:20:00
+  43 Chris        SHAW                 HAVOC  10:23:00
+ 236 Paul         OATES                CROC   10:24:00
+ 281 Eric         BROWN                HH     10:28:00
+ 230 Andy         ELLIOTT              CROC   10:31:00
+ 161 Robert       WILLS                SO     10:33:00
+ 186 Alwyn        CHALLACOMBE          HH     10:35:00
+ 246 Tim          BAILEY               SAX    10:44:00
+  87 Dave         STUTTARD             DFOK   10:45:00
+ 115 Ricky        WISE                 SO     10:47:00
+ 154 Peter        RICHES               TVOC   10:49:00
+  88 Larry        WOODER               DFOK   10:51:00
+ 143 Peter        MARTIN               SAX    10:53:00
+   4 Alan         WILLIAMSON           SO     10:55:00
+ 312 Stefan       STASIUK              BKO    10:56:00
+  73 Ian          PARFITT              DFOK   10:57:00
+ 331 Stephen      WAITE                CROC   11:00:00
+ 266 Ralph        PHIPPS               TVOC   11:08:00
+ 142 Neil         HARWOOD              GO     11:11:00
+ 254 Rod          WILLIAMS             SO     11:13:00
+  61 Stephen      STONE                TVOC   11:15:00
+  14 Colin        WEBSTER              HH     11:17:00
+  27 Peter        RYALL                WAOC   11:19:00
+ 315 Michael      CULLEN               SN     11:20:00
+ 178 David        KINGDON              SAX    11:23:00
+  45 Peter        HOWSAM               WAOC   11:25:00
+ 268 Iain         ROBERTSON            TVOC   11:28:00
+ 104 Ron          CARTWRIGHT           SOC    11:29:00
+ 170 Paul         JOHNSON              BOK    11:31:00
+ 162 Philip       COOPER               SOC    11:39:00
+ 209 John         FRANKLIN             SO     11:41:00
+ 274 Merlyn       VYNER                TVOC   11:49:00
+ 309 Chris        SPARKMAN             SAX    11:57:00
+
+
+Class: M50S Course: 05 4.4km 135m 15 Controls 
+
+ 134 Bill         GRIFFITHS            SAX    10:15:00
+  64 Graham       LONGLEY              SO     10:49:00
+  86 Jon          SNEPP                SAX    10:55:00
+ 148 Peter        WOOD                 CROC   10:59:00
+
+
+Class: M55L Course: 04 5.7km 185m 16 Controls 
+
+ 114 Chris        MCDONALD             MV     10:00:00
+ 150 James        PARKER               SO     10:10:00
+ 243 George       NORMAND              HH     10:12:00
+ 278 Leslie       HOOPER               SO     10:21:00
+ 182 Garry        PARMENTER            HAVOC  10:24:00
+ 160 Victor       WILLS                SO     10:32:00
+ 228 Leslie       COLES                SO     10:36:00
+ 253 John         MORRIS               SO     10:40:00
+ 247 Jim          PROWTING             TVOC   10:48:00
+ 302 John         PENNINGTON           SOC    10:49:00
+  89 Richard      MOSS                 SOC    10:54:00
+  44 James        MORRIS               GO     10:56:00
+  81 Mike         BARON                SO     10:58:00
+  91 Tim          HOLT                 SOC    11:04:00
+  25 Tim          PUGH                 GO     11:20:00
+ 310 John         PEARCE               CHIG   11:23:00
+  35 Keith        HENDERSON            WIM    11:24:00
+ 121 Julian       LYNE                 SOC    11:34:00
+ 140 Jack         HUTCHISON            SOC    11:40:00
+ 107 Frank        INCE                 SWOC   12:02:00
+ 328 Barrie       STEPHENS             DVO    12:06:00
+   3 Roger        MOULDING             HH     12:08:00
+   9 Geoffrey     NEWTON               MV     12:20:00
+ 155 Simon        LING                 MV     12:30:00
+
+
+Class: M55S Course: 05 4.4km 135m 15 Controls 
+
+ 231 Francis      O'BRIEN              CROC   10:25:00
+  38 John         EVERETT              SO     10:33:00
+ 287 John         WARBURTON            HH     11:06:00
+
+
+Class: M60L Course: 04 5.7km 185m 16 Controls 
+
+  94 Andy         MAC-GREGOR           BADO   10:22:00
+ 109 Ray          MASSEY               SOC    10:26:00
+ 113 Jeremy       OLDERSHAW            SAX    10:50:00
+ 350 Terry        MARSH                SLOW   11:03:00
+ 327 Douglas      DEEKS                SAX    11:27:00
+ 102 John         FALLER               SAX    11:32:00
+  51 Peter        BENNETT              BKO    11:54:00
+  59 John         WARREN               WIM    11:58:00
+   8 Michael      WHITE                MV     12:12:00
+
+
+Class: M60S Course: 06 3.4km 90m 12 Controls 
+
+ 224 Geoff        BRISTOW              TVOC   11:12:00
+
+
+Class: M65L Course: 05 4.4km 135m 15 Controls 
+
+ 295 David        THOMAS               SN     10:38:00
+ 165 Peter        WEBB                 SOC    10:39:00
+ 135 Michael      WINN                 CROC   11:03:00
+ 298 Charles      SMITH                TVOC   11:16:00
+ 158 Reg          PARKER               BKO    11:17:00
+  13 Robin        BARRIS               HH     11:21:00
+ 222 Bernard      WILSON               DFOK   11:29:00
+ 289 Brian        DINSLEY              CROC   11:32:00
+ 172 Colin        CURTIS               WAOC   11:33:00
+ 338 Peter        PRATT                HH     11:37:00
+ 217 Frank        HOWARTH              MV     11:45:00
+  22 Alan         YEADON               BKO    11:47:00
+ 335 John         FARREN               TVOC   11:59:00
+ 147 Roy          WHITEHEAD            MV     12:23:00
+
+
+Class: M70L Course: 05 4.4km 135m 15 Controls 
+
+ 219 Ken          HALE                 SAX    10:31:00
+   7 Jacobus      VAN DEN BERG         BAOC   10:51:00
+ 252 Bernard      POTTER               TVOC   11:20:00
+ 124 Lubor        VELECKY              SOC    11:23:00
+ 139 Jeremy       DEBENHAM             SO     11:27:00
+  42 Brian        GLENISTER            SAX    11:57:00
+
+
+Class: M70S Course: 06 3.4km 90m 12 Controls 
+
+ 169 Pat          NELSON               MV     10:00:00
+
+
+Class: W10A Course: 11 2.5km 75m 10 Controls 
+
+ 242 Laura        PARKES               HH     10:05:00
+ 130 Louisa       BRIDGE               SO     10:43:00
+
+
+Class: W10B Course: 12 1.5km 30m 9 Controls 
+
+ 250 Katie        HOWES                SAX    10:39:00
+ 177 Carolyn      ANDREWS              CROC   10:56:00
+
+
+Class: W12A Course: 10 2.7km 80m 10 Controls 
+
+  71 Bryony       CRICKMORE            SO     10:04:00
+ 249 Clare        HOWES                SAX    10:34:00
+ 106 Clare        DEVINE               SO     11:32:00
+
+
+Class: W14A Course: 09 3.3km 105m 9 Controls 
+
+  85 Riikka       ANNILA               SOC    11:11:00
+ 163 Rachel       COOPER               SOC    11:39:00
+ 208 Ingrid       FRANKLIN             SO     11:43:00
+
+
+Class: W14B Course: 10 2.7km 80m 10 Controls 
+
+ 334 Nina         TANT                 SOS    11:24:00
+
+
+Class: W16A Course: 05 4.4km 135m 15 Controls 
+
+ 202 Charlotte    TURNER               SLOW   10:27:00
+  68 Katie        SELLENS              SOS    11:05:00
+  32 Lucy         JEPSON               SO     11:11:00
+ 333 Hazel        TANT                 SOS    11:28:00
+
+
+Class: W18A Course: 05 4.4km 135m 15 Controls 
+
+ 128 Elizabeth    BRIDGE               SO     10:41:00
+ 303 Amy          PENNINGTON           SOC    10:48:00
+  30 Victoria     JOYCE                SO     11:07:00
+
+
+Class: W20L Course: 04 5.7km 185m 16 Controls 
+
+ 181 Sarah        KINGDON              SAX    11:36:00
+
+
+Class: W21L Course: 03 7.1km 250m 20 Controls 
+
+ 168 Christine    CURRIE               SOC    10:09:00
+ 290 Jennifer     THOMAS               SLOW   10:38:00
+ 164 Pippa        WHITEHOUSE           SO     10:39:00
+  37 Julia        JARVIS               SO     11:01:00
+ 235 Alison       BIRD                 CROC   11:04:00
+ 324 Fionne       AUSTIN               LOK    11:16:00
+ 325 Brid         HIGGINS              LOK    11:24:00
+ 180 Becky        KINGDON              SAX    11:36:00
+  24 Fiona        FORREST              BKO    11:51:00
+ 212 Sarah Louise FRANCIS              SN     12:03:00
+
+
+Class: W21S Course: 05 4.4km 135m 15 Controls 
+
+ 190 Jane         MCKENNA              SLOW   10:43:00
+ 233 Kamila       WHISTON              CROC   10:52:00
+ 244 Kerry        CLENAGHAN            LOK    11:39:00
+ 205 Antje        DETHOF               BKO    11:43:00
+ 263 Katherine    GILLESPIE            LOK    11:55:00
+ 286 Rachel       TURNER               MV     12:17:00
+
+
+Class: W35L Course: 04 5.7km 185m 16 Controls 
+
+ 316 Martine      BUCKLE               MV     09:52:00
+ 294 Kate         BRETT                LOK    10:02:00
+ 227 Claire       LEITCH               SO     10:04:00
+ 211 Helen        ERRINGTON            LOK    10:06:00
+  26 Gill         ADAMS                LOK    10:18:00
+ 296 Susan        SKINNER              SN     10:38:00
+ 138 Joanne       HICKLING             SAX    11:00:00
+ 101 Louise       JONES                LOK    11:08:00
+ 257 Rachel       HOPKINS              LOK    11:44:00
+ 256 Catherine    GALVIN               LOK    12:00:00
+ 346 Emma         FRYER                LOK    12:10:00
+ 146 Sandra       VOGEL                MV     12:16:00
+
+
+Class: W35S Course: 05 4.4km 135m 15 Controls 
+
+ 301 Julie        NELSON               GO     10:03:00
+  70 Susan        CRICKMORE            SO     12:19:00
+
+
+Class: W40L Course: 04 5.7km 185m 16 Controls 
+
+ 118 Jane         ARCHER               SN     10:20:00
+ 119 Gillian      SHARP                SN     10:28:00
+ 248 Sarah        HOWES                SAX    10:44:00
+ 297 Anne         JAGO                 SAX    10:55:00
+  31 Christine    JEPSON               SO     11:10:00
+  84 Paivi        ANNILA               SOC    11:12:00
+  18 Jane         KING                 SO     11:14:00
+  21 Jackie       BIRD                 SAX    11:18:00
+ 111 Judith       BATEMAN              SO     11:28:00
+ 171 Judy         JOHNSON              BOK    11:30:00
+  50 Chris        ROSE                 BADO   11:42:00
+ 240 Penny        PARKES               HH     12:04:00
+
+
+Class: W40S Course: 06 3.4km 90m 12 Controls 
+
+ 127 Judy         BRIDGE               SO     10:46:00
+ 195 Frances      STREET               HH     10:50:00
+ 175 Heather      ANDREWS              CROC   10:58:00
+  53 Alison       SAUNDERS             HH     11:26:00
+ 265 Amanda       ROBSON               LOK    11:50:00
+
+
+Class: W45L Course: 05 4.4km 135m 15 Controls 
+
+ 299 Cyd          BUSH                 MV     10:01:00
+ 270 Carole       ROBINSON             GO     10:19:00
+ 245 Isobel       BAILEY               SAX    10:44:00
+ 116 Helen        WISE                 SO     10:45:00
+  66 Hilary       SELLENS              SOS    11:01:00
+ 269 Sue          ROBERTSON            TVOC   11:12:00
+  28 Janis        RYALL                WAOC   11:19:00
+ 123 Carol        HOUSE                RMOC   11:35:00
+ 207 Michele      UNEK                 SO     11:41:00
+  34 Viv          MACDONALD            DVO    11:53:00
+ 321 Virginia     CATMUR               SLOW   12:11:00
+
+
+Class: W45S Course: 06 3.4km 90m 12 Controls 
+
+ 179 Anita        KINGDON              SAX    11:34:00
+
+
+Class: W50L Course: 05 4.4km 135m 15 Controls 
+
+ 330 Julianna     GRANT                MV     09:57:00
+  62 Pamela       CRISP                MV     10:07:00
+ 280 Lesley       BROWN                HH     10:29:00
+ 187 Val          CHALLACOMBE          HH     10:35:00
+  46 Jane         HOWSAM               WAOC   11:25:00
+
+
+Class: W50S Course: 06 3.4km 90m 12 Controls 
+
+ 267 Katy         PHIPPS               TVOC   11:08:00
+  15 Maureen      WEBSTER              HH     11:18:00
+ 133 Gina         CAPRON               TVOC   11:30:00
+
+
+Class: W55L Course: 05 4.4km 135m 15 Controls 
+
+ 136 Lorna        LINDFIELD            SO     10:11:00
+ 344 Joan         MILLS                SAX    10:21:00
+ 279 Bridget      HOOPER               SO     10:23:00
+  47 Christine    SMITH                BADO   10:47:00
+  80 Jaquie       DRAKE                SO     10:53:00
+  90 Shirley      MOSS                 SOC    10:57:00
+ 311 Carol        PEARCE               CHIG   11:24:00
+  23 Liz          TURBIN               BKO    11:51:00
+ 185 Ruth         RHODES               SO     12:01:00
+
+
+Class: W55S Course: 06 3.4km 90m 12 Controls 
+
+ 229 Sylvia       COLES                SO     10:34:00
+  92 Jill         HOLT                 SOC    11:00:00
+ 288 Valerie      WARBURTON            HH     11:06:00
+ 156 Cynthia      LING                 MV     12:26:00
+
+
+Class: W60L Course: 06 3.4km 90m 12 Controls 
+
+ 152 Susan        PARKER               SO     10:08:00
+ 166 Heather      WEBB                 SOC    10:38:00
+ 251 Susie        HALL                 HH     11:10:00
+ 159 Anne         PARKER               BKO    11:16:00
+ 349 Margaret     KENT                 SO     12:02:00
+
+
+Class: W60S Course: 07 2.4km 60m 9 Controls 
+
+ 345 Diana        LITTLETON            SAX    10:23:00
+
+
+Class: W65L Course: 06 3.4km 90m 12 Controls 
+
+ 348 Mary         FOGO                 SO     11:54:00
+  60 Barbara      WARREN               WIM    11:58:00
+
+
+Class: W65S Course: 07 2.4km 60m 9 Controls 
+
+ 223 Janet        WILSON               DFOK   11:31:00
+
+
+Class: W70L Course: 06 3.4km 90m 12 Controls 
+
+ 220 Dorothy      HALE                 SAX    10:32:00
+
+
+Class: W75L Course: 06 3.4km 90m 12 Controls 
+
+  19 Elizabeth    BROWN                SO     11:14:00
+ 125 Jean         VELECKY              SOC    11:22:00
+
+
+
+
+

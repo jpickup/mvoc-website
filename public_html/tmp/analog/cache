@@ -1,0 +1,1230 @@
+CACHE type 5 produced by analog 6.0/Unix. Do not modify or delete!
+T	0	0	309	240	0	815	225732
+D	26879657	26881095
+18666	125	1	0	130
+18666	126	1	1	1191
+18666	128	1	1	1191
+18666	130	1	0	130
+18666	132	2	0	260
+18666	133	4	2	2642
+18666	135	2	2	2382
+18666	136	1	0	130
+18666	137	1	0	130
+18666	139	1	1	1191
+18666	144	1	0	130
+18666	147	1	1	1191
+18666	148	2	2	2382
+18666	149	1	1	1191
+18666	151	1	1	1191
+18666	153	1	1	1191
+18666	154	1	0	130
+18666	157	1	1	1191
+18666	160	1	1	1191
+18666	162	4	3	3703
+18666	163	1	1	1191
+18666	164	1	1	1191
+18666	165	1	0	130
+18666	167	1	1	1191
+18666	168	1	0	130
+18666	169	1	0	130
+18666	171	1	0	130
+18666	173	1	1	1191
+18666	175	1	1	1191
+18666	176	2	2	2382
+18666	177	2	2	2382
+18666	179	2	1	1321
+18666	184	3	2	2512
+18666	185	1	0	130
+18666	191	1	1	1191
+18666	192	1	1	1191
+18666	193	1	0	130
+18666	194	1	1	1191
+18666	197	2	1	130
+18666	198	1	0	130
+18666	200	1	1	0
+18666	202	1	1	1191
+18666	203	1	1	0
+18666	207	1	1	1191
+18666	210	2	2	2382
+18666	212	1	1	1191
+18666	213	3	3	1191
+18666	216	1	1	1191
+18666	217	1	1	1191
+18666	218	2	2	2382
+18666	220	2	0	260
+18666	221	12	12	1191
+18666	223	6	5	130
+18666	224	4	4	1191
+18666	225	1	0	130
+18666	226	2	2	1191
+18666	227	2	0	260
+18666	231	1	1	1191
+18666	232	1	1	1191
+18666	233	1	0	130
+18666	234	3	3	3573
+18666	235	1	1	1191
+18666	236	1	0	130
+18666	237	3	2	2512
+18666	238	1	1	0
+18666	239	1	1	1191
+18666	242	1	1	1191
+18666	244	3	2	2512
+18666	247	3	1	1451
+18666	248	1	1	1191
+18666	249	1	0	130
+18666	250	2	1	130
+18666	251	3	3	3573
+18666	252	1	1	1191
+18666	253	1	1	1191
+18666	255	1	1	1191
+18666	256	1	1	1191
+18666	259	3	3	1191
+18666	260	3	3	3573
+18666	262	1	1	1191
+18666	263	2	1	1321
+18666	264	1	1	1191
+18666	265	2	1	1321
+18666	268	2	2	2382
+18666	269	1	0	130
+18666	270	1	1	1191
+18666	272	5	5	4764
+18666	274	1	1	1191
+18666	275	1	0	130
+18666	276	1	1	1191
+18666	277	3	1	1451
+18666	280	2	1	1321
+18666	282	1	0	130
+18666	283	2	2	1191
+18666	285	1	1	1191
+18666	286	1	1	0
+18667	0	1	1	1191
+18667	4	2	2	2382
+18667	5	3	1	1451
+18667	8	2	2	1191
+18667	9	1	0	130
+18667	11	2	1	1321
+18667	12	1	0	130
+18667	13	1	1	1191
+18667	14	1	1	1191
+18667	15	1	1	1191
+18667	18	2	1	1321
+18667	20	1	1	1191
+18667	21	1	1	1191
+18667	22	1	1	1191
+18667	26	1	0	130
+18667	27	1	0	130
+18667	29	2	1	1321
+18667	33	1	1	1191
+18667	35	1	1	1191
+18667	36	2	2	2382
+18667	37	3	1	1451
+18667	38	1	1	1191
+18667	39	6	5	6085
+18667	42	1	0	130
+18667	43	4	4	4764
+18667	44	1	1	1191
+18667	45	1	1	1191
+18667	46	2	2	2382
+18667	47	1	1	1191
+18667	48	1	1	1191
+18667	50	1	1	1191
+18667	51	3	3	3573
+18667	52	1	1	1191
+18667	54	2	1	1321
+18667	55	1	1	1191
+18667	57	1	1	1191
+18667	63	1	1	1191
+18667	64	2	2	0
+18667	66	7	5	6215
+18667	67	5	5	1191
+18667	68	12	11	130
+18667	69	1	1	1191
+18667	70	3	3	0
+18667	72	1	1	1191
+18667	73	1	1	1191
+18667	74	1	1	1191
+18667	75	1	1	1191
+18667	76	2	2	2382
+18667	77	2	2	2382
+18667	78	4	2	2642
+18667	79	1	1	1191
+18667	82	1	1	1191
+18667	84	2	2	1191
+18667	85	1	0	130
+18667	87	1	1	1191
+18667	88	1	1	1191
+18667	89	1	1	1191
+18667	90	5	5	2382
+18667	92	1	0	130
+18667	94	2	2	2382
+18667	95	2	2	2382
+18667	98	3	3	3573
+18667	99	3	3	3573
+18667	102	3	2	2512
+18667	103	1	1	1191
+18667	105	1	1	1191
+18667	106	1	0	130
+18667	107	3	2	2512
+18667	108	1	1	1191
+18667	109	1	1	1191
+18667	110	2	2	2382
+18667	111	1	1	1191
+18667	115	1	1	1191
+18667	116	1	0	130
+18667	117	1	1	1191
+18667	119	2	1	1321
+18667	121	1	1	0
+18667	123	1	1	1191
+1	0	0	0	2	0	0	26880676	0	0	26880520	0	/Misc results/Results North Epsom and Ewell street score 1 April 2001.htm
+1	0	0	0	2	0	0	26881090	0	0	26880778	0	/Events_Calendar_2.htm
+1	0	0	0	1	0	0	26879937	0	0	26879937	0	/Events/20170827EpsomUrban/results/course_3_wv,msv_course_splits.html
+1	0	0	0	1	0	0	26880811	0	0	26880811	0	/Events/20180211SouthAshdown/results/green_course_splits.html
+1	0	0	0	2	0	0	26880294	0	0	26880173	0	/Events/2013_14WinterSeries/SeriesLeagueAfter5Events.pdf
+1	0	0	0	2	0	0	26880675	0	0	26879957	0	/Events/2010 May 16 The Nower/2010 May 16 The Nower main results page.htm
+1	0	0	0	5	0	0	26881068	0	0	26880132	0	/cgi-bin/yabb2/YaBB.pl?action=help;section=moderator
+1	0	0	0	1	0	0	26880747	0	0	26880747	0	/Events/20171210FamsVets/results/light_green_course_splits.html
+1	0	0	0	1	0	0	26880426	0	0	26880426	0	/Saturday Series 2006/Box Hill 21 Oct 2006 score splits.htm
+1	0	0	0	1	0	0	26880682	0	0	26880682	0	/Events/2007 April 1 Box Hill District/2007 April 1 Box Hill District Event main page.htm
+1	0	0	0	1	0	0	26881085	0	0	26881085	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/w16a.html
+1	0	0	0	2	0	0	26880442	0	0	26880441	0	/POCs/POC order form - May 11.pdf
+1	0	0	0	1	0	0	26880357	0	0	26880357	0	/Events/20151213FamsAndVets/20151213Results/
+1	0	0	0	1	0	0	26879760	0	0	26879760	0	/Events/20190825EpsomUrban/results/5_-_mhv,wuv,whv_course_splits.html
+1	0	0	0	1	0	0	26880971	0	0	26880971	0	/Events/20170827EpsomUrban/results/muv_class_splits.html
+1	0	0	0	2	0	0	26880128	0	0	26880086	0	/.env
+1	0	0	0	1	0	0	26880684	0	0	26880684	0	/Events/2007 July 22 Nonsuch Park Frolic/22 July 2007 Frolic Nonsuch Park main results page.htm
+1	0	0	0	1	0	0	26880681	0	0	26880681	0	/Events/2011 Nov 26 St Leonards SE Night Champs/2011 St Leonards main results page.htm
+1	0	0	0	1	0	0	26880073	0	0	26880073	0	/Events/20181202SEFamsVets/20181202FinalDetails.pdf
+1	0	0	0	1	0	0	26880536	0	0	26880536	0	/Events/20180125KNC/results/
+1	0	0	0	1	0	0	26880677	0	0	26880677	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_sax5.html
+1	0	0	0	1	0	0	26879700	0	0	26879700	0	/Events/2014Aug24DorkingSEOUL/Results/mo_splits.html
+1	0	0	0	1	0	0	26880834	0	0	26880834	0	/Events_Calendar_images/cancelled.png
+1	0	0	0	1	0	0	26880252	0	0	26880252	0	/Events/2006 Dec 17  Epsom and Ashead Commons District with Fams and Vets/Epsom and Ashtead Commons District event with fams and vets results without splits.htm
+1	0	0	0	1	0	0	26880358	0	0	26880358	0	/Events/20190825EpsomUrban/results/mv_class.html
+1	0	0	0	3	0	0	26880754	0	0	26880179	0	/Events/2007 May 28 Nower limited district event/2007May28 The Nower main results page.htm
+1	0	0	0	1	0	0	26880445	0	0	26880445	0	/POCs/POC order form - July 14.pdf
+1	0	0	0	3	0	0	26880493	0	0	26880047	0	/POCs/poc_map_form.php
+1	0	0	0	1	0	0	26880729	0	0	26880729	0	/Events/20171022EpsomDowns/results/short_brown_course_splits.html
+1	0	0	0	2	0	0	26881011	0	0	26880842	0	/POCs/poc_map_form.php?map=9
+1	0	0	0	1	0	0	26880966	0	0	26880966	0	/POCs/poc_map_form.php?map=7
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2+AND+'1'+%3D+'2'
+1	0	0	0	1	0	0	26880165	0	0	26880165	0	/POCs/poc_map_form.php?map=4
+1	0	0	0	30	0	0	26881077	0	0	26879657	0	/POCs/poc_map_form.php?map=2
+1	0	0	0	1	0	0	26880141	0	0	26880141	0	/POCs/poc_map_form.php?map=1
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/w45l.html
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2+AND+'1'+%3D+'1'
+1	0	0	0	1	0	0	26880739	0	0	26880739	0	/Events/2017WinterSeries/20171205Details.pdf
+1	0	0	0	3	0	0	26880689	0	0	26880489	0	/Events/2004 Dec 18 19 Pippingford Park Senile Fams and Vets/Pippingford Park SENiLE main results page.htm
+1	0	0	0	2	0	0	26880669	0	0	26880493	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_4.html
+1	0	0	0	1	0	0	26880670	0	0	26880670	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_7.html
+1	0	0	0	3	0	0	26880445	0	0	26879756	0	/Club Management/Club Contacts.htm
+1	0	0	0	1	0	0	26880676	0	0	26880676	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_mv9.html
+1	0	0	0	1	0	0	26880049	0	0	26880049	0	/Saturday Series 2003/Saturday Series 2003 League.htm
+1	0	0	0	3	0	0	26880356	0	0	26879986	0	/maprunf/maprunf_maps.htm
+1	0	0	0	1	0	0	26880033	0	0	26880033	0	/Events/2008 July 20 Nork Park Frolic/Nork Park FROLIC 20 July 2008 Flyer.doc
+1	0	0	0	1	0	0	26880684	0	0	26880684	0	/Events/2011 July 10 Nonsuch Park Frolic/2011 Jul 10 Nonsuch Park Frolic main results page.htm
+1	0	0	0	1	0	0	26880142	0	0	26880142	0	/Results main page.htm
+1	0	0	0	1	0	0	26880748	0	0	26880748	0	/wordpress/wp-login.php
+1	0	0	0	1	0	0	26880688	0	0	26880688	0	/Events/2008 July 29 Dorking evening score event/29 July 2008 Dorking evening score event main page.htm
+1	0	0	0	1	0	0	26880688	0	0	26880688	0	/Events/2012 Jun 05 Balcombe Waterside Jubilee O Festival score event/2012 Jun 05 main results page.htm
+1	0	0	0	1	0	0	26880357	0	0	26880357	0	/Events/20171022EpsomDowns/results/
+1	0	0	0	1	0	0	26880585	0	0	26880585	0	/Events/2004 Jun 06 Nower limited District/Nower 06 June 2004 Results with splits.htm
+1	0	0	0	2	0	0	26881075	0	0	26880664	0	/cgi-bin/yabb2/YaBB.pl?action=recent
+1	0	0	0	1	0	0	26880051	0	0	26880051	0	/cgi-bin/yabb2/YaBB.pl?num=1158940014
+1	0	0	0	2	0	0	26881085	0	0	26880614	0	/Events/20150207SouthernChamps/20150207UKOLResults/2.html
+1	0	0	0	1	0	0	26880695	0	0	26880695	0	/Saturday Series 2004/Epsom Downs 16 Oct 2004 nosplits.htm
+1	0	0	0	2	0	0	26880472	0	0	26880339	0	/Events/2014Jun15NowerTryO/
+1	0	0	0	2	0	0	26881041	0	0	26880012	0	/Events/2012May27NowerTryO/2012May27splits.htm
+1	0	0	0	1	0	0	26880679	0	0	26880679	0	/Events/2007 Feb 25 White Downs National Event/scarp_small.jpg
+1	0	0	0	1	0	0	26880674	0	0	26880674	0	/Events/20191020CompassSport/results/stage1_course_11_course_splits.html
+1	0	0	0	7	0	0	26880882	0	0	26880877	0	/cgi-bin/yabb2/YaBB.pl?num=1160511548/2
+1	0	0	0	2	0	0	26880541	0	0	26880375	0	/Events/20200804Nower/20200804Flyer.pdf
+1	0	0	0	1	0	0	26879751	0	0	26879751	0	/Events/2014Feb22BritishNights/FinalResults/m50s_splits.html
+1	0	0	0	1	0	0	26880724	0	0	26880724	0	/Events/2006 Aug 27 Headley Heath club picnic/Robin Lewer wins junior competition_small.JPG
+1	0	0	0	1	0	0	26880502	0	0	26880502	0	/Events/2009 Aug 16 Buchan Country Park Mole picnic/Club Picnic 2009 Buchan Country Park main results page.htm
+1	0	0	0	1	0	0	26881060	0	0	26881060	0	/Events/20161218SEFamsVets/Results/brown_course_splits.html
+1	0	0	0	1	0	0	26880684	0	0	26880684	0	/Events/2008 May 26 The Nower Limited District Event/2007May28 The Nower main results page.htm
+1	0	0	0	1	0	0	26880437	0	0	26880437	0	/Events/2010 Sheepleas Effingham Forest and Oldlands Wood Regional/2010 Jan 17 Sheeplease, Effingham and Oldlands main results page.htm
+1	0	0	0	2	0	0	26880672	0	0	26880403	0	/Events/20191020CompassSport/results/stage1_course_9_course_splits.html
+1	0	0	0	1	0	0	26880954	0	0	26880954	0	/ads.txt
+1	0	0	0	2	0	0	26880736	0	0	26880598	0	/Events/2016WinterSeries/20161206Results.pdf
+1	0	0	0	5	0	0	26880970	0	0	26879936	0	/cgi-bin/yabb2/yabb.pl?action=help
+1	0	0	0	2	0	0	26880672	0	0	26879899	0	/Events/20191020CompassSport/results/stage1_course_6_course_splits.html
+1	0	0	0	1	0	0	26879902	0	0	26879902	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/m20l_splits.html
+1	0	0	0	2	0	0	26880188	0	0	26880048	0	/Events/20180605ParkRace/Main.htm
+1	0	0	0	3	0	0	26881078	0	0	26880259	0	/Events/20191020CompassSport/Main.htm
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/2011 Jan 16 Ranmore Common CompassSport Cup and Trophy regional qualifier/CompassSport Individual Results FINAL.pdf
+1	0	0	0	1	0	0	26880671	0	0	26880671	0	/Events/20191020CompassSport/results/stage1_course_3_course_splits.html
+1	0	0	0	2	0	0	26880370	0	0	26880368	0	/images/Header images/MVlogo 100 x 100.jpg
+1	0	0	0	1	0	0	26880958	0	0	26880958	0	/Events/20160207SELeagueEvent/20160207Results/brown_course_splits.html
+1	0	0	0	1	0	0	26880701	0	0	26880701	0	/Events/2006 Dec 17  Epsom and Ashead Commons District with Fams and Vets/Epsom and Ashtead Commons District event with fams and vets main results page.htm
+1	0	0	0	1	0	0	26880976	0	0	26880976	0	/Events/2007 April 1 Box Hill District/2007 April 1 Box Hill District Event flyer.htm
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/20150207SouthernChamps/2015 Southern Champions.pdf
+1	0	0	0	1	0	0	26880680	0	0	26880680	0	/Events/2006 Aug 27 Headley Heath club picnic/Club Picnic 2006 main results page.htm
+1	0	0	0	1	0	0	26881035	0	0	26881035	0	/Events/20190825EpsomUrban/results/muv_class_splits.html
+1	0	0	0	1	0	0	26880684	0	0	26880684	0	/Events/2014Jul16ParkRaceMordenPark/2014Jul16main.htm
+1	0	0	0	1	0	0	26880805	0	0	26880805	0	/Events/20170620NonsuchPark/results/
+1	0	0	0	1	0	0	26879898	0	0	26879898	0	/Events/20180617SERelayChamps/relay_results/green_ae_course_splits.html
+1	0	0	0	1	0	0	26880033	0	0	26880033	0	/cgi-bin/yabb2/YaBB.pl?num=1154081629
+1	0	0	0	1	0	0	26880357	0	0	26880357	0	/Events/2014Jul13NonsuchGLOSS/
+1	0	0	0	1	0	0	26879868	0	0	26879868	0	/Events/20160703GLOSS/20160703Results/light_green__extention_course_splits.html
+1	0	0	0	1	0	0	26880917	0	0	26880917	0	/cgi-bin/yabb2/YaBB.pl?num=1181402704/0
+1	0	0	0	1	0	0	26880868	0	0	26880868	0	/Events/2014Aug24DorkingSEOUL/Results/f_splits.html
+1	0	0	0	1	0	0	26880895	0	0	26880895	0	/Events/20150207SouthernChamps/20150207SouthernChampsMain.htm
+1	0	0	0	1	0	0	26881093	0	0	26881093	0	/The Mole Roll/Peter Burt Trophy.jpg
+1	0	0	0	2	0	0	26880397	0	0	26879667	0	/Events/20170611Nower/20170611Main.htm
+1	0	0	0	2	0	0	26880811	0	0	26880663	0	/Events/2017WinterSeries/20180327Details.pdf
+1	0	0	0	1	0	0	26880927	0	0	26880927	0	/24 April 2004 Banstead Heath Southern Express/24 April Banstead Southern Express results index.htm
+1	0	0	0	1	0	0	26880677	0	0	26880677	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_waoc1.html
+1	0	0	0	3	0	0	26880814	0	0	26880687	0	/Events/2006 June 09 Oaks Park Sutton Schools event/09June2006 Sutton Schools Oaks Park main page.htm
+1	0	0	0	1	0	0	26881066	0	0	26881066	0	/cgi-bin/yabb2/YaBB.pl?action=setmsn;msnname=JonMoore
+1	0	0	0	1	0	0	26880689	0	0	26880689	0	/Events/2005 Dec 04 Banstead Senile and District with Fams and Vets/Banstead SENiLE main results page.htm
+1	0	0	0	1	0	0	26880469	0	0	26880469	0	/Events/2008 6 Jan Epsom and Ashtead Commons District Event/2008 Jan 6 Epsom and Ashtead Commons District Event main page.htm
+1	0	0	0	1	0	0	26880309	0	0	26880309	0	/Events/2012Jul08NonsuchParkFrolic/Frolic Flyer Nonsuch Park 2012.pdf
+1	0	0	0	1	0	0	26879963	0	0	26879963	0	/Events/2019WinterSeries/2019League6.pdf
+1	0	0	0	1	0	0	26880524	0	0	26880524	0	/Events/2007 June 8 Oaks Park Sutton Schools event/2007 8 June Oaks Park Sutton Schools event main results page.htm
+1	0	0	0	1	0	0	26879701	0	0	26879701	0	/cgi-bin/yabb2/YaBB.pl?num=1185822359
+1	0	0	0	1	0	0	26880677	0	0	26880677	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_tay8.html
+1	0	0	0	1	0	0	26880493	0	0	26880493	0	/Events/2003 Feb 09 Box Hill National Event/Results Box Hill 09 Feb 03 W60L.htm
+1	0	0	0	1	0	0	26879918	0	0	26879918	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_8a.html
+1	0	0	0	2	0	0	26880679	0	0	26879693	0	/Events/2011 May 08 Nower Try Orienteering/2011 May 8 Nower main results page.htm
+1	0	0	0	27	0	0	26881059	0	0	26879826	0	/apple-touch-icon.png
+1	0	0	0	1	0	0	26880814	0	0	26880814	0	/Events/2009 Jan 18 Pippingford Park Regional (Level 2) Event/2009 Jan 18 Pippingford Park results splits.htm
+1	0	0	0	2	0	0	26880743	0	0	26879846	0	/Join Mole Valley.htm
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/2007 Feb 25 White Downs National Event/2007 Feb 25 National Event White Downs results NE nosplits.htm
+1	0	0	0	1	0	0	26881075	0	0	26881075	0	/cgi-bin/yabb2/yabb.pl?action=recent
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2'AND+1+%3D+2'
+1	0	0	0	2	0	0	26880687	0	0	26880634	0	/Events/2003 Jul 22 Banstead Heath evening event/22 July 2003 Banstead Heath evening event results.htm
+1	0	0	0	1	0	0	26880669	0	0	26880669	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_9a.html
+1	0	0	0	1	0	0	26880711	0	0	26880711	0	/Events/2010 Sep 25 Horton Country Park Try Orienteering/2010 Sep 25 Horton Country Park Try Orienteering main page.htm
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/8.html
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2'AND+1+%3D+1'
+1	0	0	0	1	0	0	26880690	0	0	26880690	0	/Events/2005 May 30 Nower limited District Event/Nower 30 May 2005 Limited District Event results index.htm
+1	0	0	0	1	0	0	26880348	0	0	26880348	0	/Events/2010 Nov 13 Sheeplease and Effingham night event/2010 Nov 13 Sheepleas night event  main results page.htm
+1	0	0	0	1	0	0	26880187	0	0	26880187	0	/Events/20190602SprintChamps/results/3_course_splits_clarendon.html
+1	0	0	0	1	0	0	26880151	0	0	26880151	0	/Jubilee2012/MV 50x50.gif
+1	0	0	0	1	0	0	26879933	0	0	26879933	0	/Events/2014SummerMoleNights/Bookham7Aug2014Results.pdf
+1	0	0	0	1	0	0	26880677	0	0	26880677	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_swoc6.html
+1	0	0	0	2	0	0	26880947	0	0	26879835	0	/Events/20160605Nower/20160605Results/white_course_splits.html
+1	0	0	0	2	0	0	26880671	0	0	26880451	0	/Events/2010 Oct 31 Holmbush and Buchan Country Park South East Score/2010 Oct 31 Holmbush and Buchan Country Park South East Score main results page.htm
+1	0	0	0	1	0	0	26880618	0	0	26880618	0	/Saturday Series 2004/Saturday Series 2004 picture gallery.htm
+1	0	0	0	1	0	0	26880323	0	0	26880323	0	/Events/2008 Nov 16 White Downs SE Fams and Vets/16 Nov 2008 White Downs District event with fams and vets main results page.htm
+1	0	0	0	3	0	0	26880739	0	0	26879860	0	/cgi-bin/yabb2/YaBB.pl?board=general/20
+1	0	0	0	2	0	0	26880679	0	0	26879737	0	/Events/2003 May 05 Norbury Park Colour Coded/Norbury 05 May 2003 results index.htm
+1	0	0	0	1	0	0	26880312	0	0	26880312	0	/Events/2006 Aug 27 Headley Heath club picnic/Margaret Stedman is Winner of the Previous Year's Winner prize.JPG
+1	0	0	0	4	0	0	26880718	0	0	26879709	0	/cgi-bin/yabb2/yabb.pl?action=login
+1	0	0	0	1	0	0	26880546	0	0	26880546	0	/Events/2014Feb22BritishNights/FinalResults/
+1	0	0	0	1	0	0	26880710	0	0	26880710	0	/Events/2007 Dec 2 White Downs Fams and Vets/2 Dec 2007 White Downs SE Vets and families nosplits.htm
+1	0	0	0	1	0	0	26880994	0	0	26880994	0	/Events/2014Feb23PippingfordLeague/FinalResults/yellow.html
+1	0	0	0	2	0	0	26880868	0	0	26880699	0	/Events/2012Sep09Sep27Oct27NonsuchParkTryO/
+1	0	0	0	1	0	0	26881038	0	0	26881038	0	/wp-admin/install.php?step=1
+1	0	0	0	1	0	0	26880908	0	0	26880908	0	/Events/2014Feb23PippingfordLeague/FinalResults/very_short_green.html
+1	0	0	0	3	0	0	26880679	0	0	26879672	0	/Events/2011 Jan 16 Ranmore Common CompassSport Cup and Trophy regional qualifier/2011 Ranmore main results page.htm
+1	0	0	0	1	0	0	26880678	0	0	26880678	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_claro7.html
+1	0	0	0	1	0	0	26880199	0	0	26880199	0	/Events/20160605Nower/20160605NowerDetails.pdf
+1	0	0	0	1	0	0	26879753	0	0	26879753	0	/cgi-bin/yabb2/YaBB.pl?num=1154631499
+1	0	0	0	1	0	0	26880209	0	0	26880209	0	/Events/2014Feb23PippingfordLeague/ProvisionalResults/yellow_splits.html
+1	0	0	0	2	0	0	26880668	0	0	26880500	0	/Events/2010 Sheepleas Effingham Forest and Oldlands Wood Regional/2010 Jan 17 Sheeplease, Effingham and Oldlands results nosplits.htm
+1	0	0	0	1	0	0	26880292	0	0	26880292	0	/Events/2014Feb22BritishNights/FinalResults/m40s.html
+1	0	0	0	1	0	0	26880047	0	0	26880047	0	/Misc results/Results Horton Country Park 05 Sep 1999.htm
+1	0	0	0	1	0	0	26880535	0	0	26880535	0	/Events/20150726GLOSSMordenPark/20150726GLOSSMordenParkMain.htm
+1	0	0	0	1	0	0	26880685	0	0	26880685	0	/Events/2005 Apr 03 Box Hill District Event/030405 Box Hill District Event main results page.htm
+1	0	0	0	1	0	0	26880404	0	0	26880404	0	/Events/2013SummerUrbanSeries/Bookham19June2013results.pdf
+1	0	0	0	2	0	0	26880295	0	0	26880172	0	/Events/2007 Feb 25 White Downs National Event/2007 Feb 25 National Event White Downs Final Details.doc
+1	0	0	0	58	0	0	26881085	0	0	26879658	0	/favicon.ico
+1	0	0	0	1	0	0	26880271	0	0	26880271	0	/Events/2019SummerSeries/20190507Results.pdf
+1	0	0	0	1	0	0	26880850	0	0	26880850	0	/Events/2014_15WinterSeries/Dorking16Apr2015Result.pdf
+1	0	0	0	1	0	0	26880678	0	0	26880678	0	/Events/2004 Jun 06 Nower limited District/Nower 06 June 2004 results index.htm
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2+AND+1+%3D+2'
+1	0	0	0	1	0	0	26880675	0	0	26880675	0	/Events/20191020CompassSport/results/stage1_course_8b_course_splits.html
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2+AND+1+%3D+1'
+1	0	0	0	1	0	0	26879909	0	0	26879909	0	/Events/2019SummerSeries/20190521Details.pdf
+1	0	0	0	2	0	0	26880077	0	0	26879961	0	/cgi-bin/yabb2/YaBB.pl?board=general
+1	0	0	0	1	0	0	26880024	0	0	26880024	0	/images/Horton South 17 October 2003 04.jpg
+1	0	0	0	1	0	0	26880057	0	0	26880057	0	/Events/20190721GLOSS/20190721Details.pdf
+1	0	0	0	1	0	0	26880669	0	0	26880669	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_2.html
+1	0	0	0	1	0	0	26880398	0	0	26880398	0	/Events/2012Apr26LeatherheadLeisureCentreMoleNight/course_b_splits.htm
+1	0	0	0	1	0	0	26880516	0	0	26880516	0	/Events/2009 Mar 06 Beddington Park Sutton Schools/2009 Mar 06 Beddington Park Sutton Schools main results page.htm
+1	0	0	0	1	0	0	26880669	0	0	26880669	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_5.html
+1	0	0	0	1	0	0	26880950	0	0	26880950	0	/Events/20191215SEFamsVets/results/stage1_brown_course_splits.html
+1	0	0	0	1	0	0	26880682	0	0	26880682	0	/Events/2006 May 21 Balcombe South East Relays/2006May21 SE Relays main results page.htm
+1	0	0	0	2	0	0	26880357	0	0	26880018	0	/Events/20190825EpsomUrban/Main.htm
+1	0	0	0	22	0	0	26881034	0	0	26879709	0	/cgi-bin/yabb2/YaBB.pl?action=login
+1	0	0	0	1	0	0	26880609	0	0	26880609	0	/Misc results/Results White Downs 07 Feb 1999.htm
+1	0	0	0	1	0	0	26880989	0	0	26880989	0	/Events/2007 Feb 25 White Downs National Event/conifer_small.jpg
+1	0	0	0	2	0	0	26880691	0	0	26880443	0	/Events/2010 Oct 23 Reigate Priory Try Orienteering/2010 Oct 23 Reigate Priory Try Orienteering main page.htm
+1	0	0	0	2	0	0	26880681	0	0	26880187	0	/Events/2003 Feb 09 Box Hill National Event/Results Box Hill 09 Feb 03 results index.htm
+1	0	0	0	1	0	0	26880678	0	0	26880678	0	/Events/2012Jul08NonsuchParkFrolic/2012Jul08NonsuchParkFrolicMainResultsPage.htm
+1	0	0	0	1	0	0	26880691	0	0	26880691	0	/Events/2011 Dec 18 Ranmore Common SE Vets and Families Competition/2011 Dec 18 Ranmore main results page.htm
+1	0	0	0	1	0	0	26880441	0	0	26880441	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_fvo0.html
+1	0	0	0	1	0	0	26880375	0	0	26880375	0	/Events/2014Aug24DorkingSEOUL/Results/e_splits.html
+1	0	0	0	1	0	0	26880357	0	0	26880357	0	/Events/20161112SENightChamps/20161112Main.htm
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/2011 Jan 16 Ranmore Common CompassSport Cup and Trophy regional qualifier/2011 Ranmore provisional results by course.htm
+1	0	0	0	1	0	0	26881071	0	0	26881071	0	/Events/2007 Dec 1 White Downs SENiLe/2007 01 Dec White Downs SENiLe results splits.htm
+1	0	0	0	1	0	0	26880689	0	0	26880689	0	/Events/2007 May 26 Boidierhurst scouts event/2007 May 26 Boidierhurst scouts event main results page.htm
+1	0	0	0	1	0	0	26880674	0	0	26880674	0	/Events/20191020CompassSport/results/stage1_course_13_course_splits.html
+1	0	0	0	2	0	0	26880356	0	0	26880155	0	/Events/20190702ParkRace/Main.htm
+1	0	0	0	1	0	0	26880748	0	0	26880748	0	/wp-login.php
+1	0	0	0	2	0	0	26880665	0	0	26880562	0	/Events/2014Aug24DorkingSEOUL/Results/wj.html
+1	0	0	0	1	0	0	26879884	0	0	26879884	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/m65l.html
+1	0	0	0	1	0	0	26880512	0	0	26880512	0	/Events/2014Jul13NonsuchGLOSS/2014Jul13NonsuchGLOSSflyer.pdf
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2+AND+1+%3D+2
+1	0	0	0	1	0	0	26880573	0	0	26880573	0	/cgi-bin/yabb2/yabb.pl?num=1181402633/0
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2+AND+1+%3D+1
+1	0	0	0	1	0	0	26880003	0	0	26880003	0	/Events/2014Feb22BritishNights/BNCFlyer22Feb2014v3.pdf
+1	0	0	0	1	0	0	26880283	0	0	26880283	0	/Events/2014Feb23PippingfordLeague/ProvisionalResults/green_splits.html
+1	0	0	0	1	0	0	26881057	0	0	26881057	0	/Events/2011 Sep Oct Nonsuch Park Try Orienteering/Nonsuch Park POC opening Councillor David Mayall Tony Burton 11 Sep 2011 for web_small.jpg
+1	0	0	0	1	0	0	26879895	0	0	26879895	0	/The Mole Roll/2016HandicapResults.htm
+1	0	0	0	1	0	0	26880419	0	0	26880419	0	/Events/2014Feb22BritishNights/ProvisionalResults/m75l.html
+1	0	0	0	1	0	0	26880673	0	0	26880673	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_8a.html
+1	0	0	0	1	0	0	26880042	0	0	26880042	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/m35l_splits.html
+1	0	0	0	1	0	0	26880705	0	0	26880705	0	/Events/2007 April 1 Box Hill District/2007 April 1 Box Hill District Event results splits.htm
+1	0	0	0	2	0	0	26880543	0	0	26880427	0	/Events/2014Apr06BalcombeLevelC/2014Apr06BalcombeFinalDetails.pdf
+1	0	0	0	1	0	0	26881030	0	0	26881030	0	/Jubilee2012/University of Surrey 256x256.jpg
+1	0	0	0	1	0	0	26880892	0	0	26880892	0	/Events/2013June02NowerTryO/2013Jun02splits.htm
+1	0	0	0	1	0	0	26881017	0	0	26881017	0	/Events/20170827EpsomUrban/results/course_7_m_w12-_course.html
+1	0	0	0	1	0	0	26880492	0	0	26880492	0	/images/Epsom Downs 6 September 2003 02.jpg
+1	0	0	0	2	0	0	26880673	0	0	26879705	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_9a.html
+1	0	0	0	1	0	0	26880679	0	0	26880679	0	/Events/2002 May 26 Nower Limited Colour Coded/Nower 26 May 2002 results index.htm
+1	0	0	0	1	0	0	26880364	0	0	26880364	0	/Events/2012 Jun 05 Balcombe Waterside Jubilee O Festival score event/SEScore--Team Result.pdf
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2'+AND+'1'+%3D+'2
+1	0	0	0	2	0	0	26880940	0	0	26880671	0	/Events/20191020CompassSport/results/stage1_course_5_course_splits.html
+1	0	0	0	1	0	0	26880675	0	0	26880675	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_go4.html
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2'+AND+'1'+%3D+'1
+1	0	0	0	12	0	0	26881095	0	0	26879807	0	/cgi-bin/yabb2/YaBB.pl?action=help
+1	0	0	0	1	0	0	26880670	0	0	26880670	0	/Events/20191020CompassSport/results/stage1_course_2_course_splits.html
+1	0	0	0	1	0	0	26880621	0	0	26880621	0	/Misc results/Results South Ashdown Badge Event 13 Feb 2000.htm
+1	0	0	0	1	0	0	26880372	0	0	26880372	0	/Events/2006 Aug 27 Headley Heath club picnic/Checking the map before the start 2_small.JPG
+1	0	0	0	1	0	0	26881023	0	0	26881023	0	/Club Management/Images Club Contacts/DeborahSullivan100x100.jpg
+1	0	0	0	2	0	0	26880991	0	0	26879923	0	/Events/2014Feb23PippingfordLeague/FinalResults/short_green.html
+1	0	0	0	2	0	0	26880685	0	0	26879968	0	/Events/2009 Jul 19 Nonsuch Park Frolic/2009 19 July Nonsuch Park Frolic  main results page.htm
+1	0	0	0	1	0	0	26880844	0	0	26880844	0	/Events/2011 Aug 21 Nut Wood and Gatton Park SE Middle Distance Champs/Runnable2.jpg
+1	0	0	0	4	0	0	26880416	0	0	26879723	0	/Misc results/Results Netley Short O 12 May splits 2001.htm
+1	0	0	0	1	0	0	26880002	0	0	26880002	0	/Misc results/Results Nonsuch Park 16 September 2001 splits.htm
+1	0	0	0	1	0	0	26880047	0	0	26880047	0	/Events/20180703SurreySchools/20180703FinalDetails.pdf
+1	0	0	0	1	0	0	26880678	0	0	26880678	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_sroc10.html
+1	0	0	0	1	0	0	26880748	0	0	26880748	0	/wp/wp-login.php
+1	0	0	0	1	0	0	26879999	0	0	26879999	0	/Events/2007 Feb 25 White Downs National Event/drove_road_small.jpg
+1	0	0	0	2	0	0	26880315	0	0	26880163	0	/Events/20151029KNC7/20151029KNC7Details.pdf
+1	0	0	0	20	0	0	26881005	0	0	26879673	0	/cgi-bin/yabb2/yabb.pl
+1	0	0	0	1	0	0	26880941	0	0	26880941	0	/Events/2012May27NowerTryO/2012May27Nowermain.htm
+1	0	0	0	1	0	0	26880683	0	0	26880683	0	/Events/2006 Nov 18 Epsom Downs Senile/2006 Nov18 SENiLe Epsom Downs main results page.htm
+1	0	0	0	2	0	0	26881059	0	0	26880690	0	/Events/2006 July 23 Horton Country Park FROLIC/2006July23 Horton Country Park FROLIC main results page.htm
+1	0	0	0	1	0	0	26880356	0	0	26880356	0	/Events/20160703GLOSS/20160703Main.htm
+1	0	0	0	2	0	0	26880066	0	0	26879903	0	/Saturday Series 2003/Horton South 17 October 2003 results.htm
+1	0	0	0	1	0	0	26880420	0	0	26880420	0	/Saturday Series 2004/Hogsmill Open Space 02 Oct 2004 nosplits.htm
+1	0	0	0	1	0	0	26880493	0	0	26880493	0	/Events/2013Nov09RanmoreNight/2013Nov09RanmoreNightResultsSplits.htm
+1	0	0	0	1	0	0	26880681	0	0	26880681	0	/Jubilee2012/crown logo small.jpg
+1	0	0	0	1	0	0	26881022	0	0	26881022	0	/Events/2014Feb22BritishNights/2014Feb22BritishNightChampsMain.htm
+1	0	0	0	5	0	0	26881072	0	0	26880340	0	/cgi-bin/yabb2/YaBB.pl?action=help;section=admin
+1	0	0	0	4	0	0	26880875	0	0	26880520	0	/cgi-bin/yabb2/YaBB.pl?num=1181402633/0
+1	0	0	0	1	0	0	26880748	0	0	26880748	0	/blog/wp-login.php
+1	0	0	0	1	0	0	26880383	0	0	26880383	0	/Events/2006 Feb 12 South Ashdown Regional Event/12 February 2005 South Ashdown Regional Event main results page.htm
+1	0	0	0	1	0	0	26880615	0	0	26880615	0	/Saturday Series 2007/Oaks Park 13 Oct 2007 course 1 and 2 nosplits.htm
+1	0	0	0	1	0	0	26880071	0	0	26880071	0	/Events/2008 Sep 14 Norbury Park District Event and YBT/2008 Sep 14 Norbury Park District Event and YBT main page.htm
+1	0	0	0	1	0	0	26880633	0	0	26880633	0	/Events/2014Feb22BritishNights/ProvisionalResults/m18l_splits.html
+1	0	0	0	2	0	0	26880546	0	0	26880414	0	/Events/2014Dec21PippingfordSEVets/2014Dec21Results/green_splits.html
+1	0	0	0	2	0	0	26880840	0	0	26880685	0	/Events/2009 May 25 The Nower limited district event/2009 May 25 The Nower main results page.htm
+1	0	0	0	1	0	0	26880834	0	0	26880834	0	/Events/2007 Feb 25 White Downs National Event/mist_small.jpg
+1	0	0	0	3	0	0	26880754	0	0	26880627	0	/Events/2002 Apr 20 Balcombe Southern Express Short O/Results Balcombe short race 20 April 2002.htm
+1	0	0	0	4	0	0	26880904	0	0	26879784	0	/cgi-bin/yabb2/YaBB.pl?action=help%3Bsection=global_mod
+1	0	0	0	1	0	0	26880680	0	0	26880680	0	/07 Dec 2002 South Ashdown SENILE/Results South Ashdown 07 Dec 2002 results index.htm
+1	0	0	0	1	0	0	26880686	0	0	26880686	0	/Events/2010 Nov 20 Box Hill Try Orienteering/2010 Nov 20 Box Hill Try Orienteering main page.htm
+1	0	0	0	1	0	0	26879932	0	0	26879932	0	/Events/2014Jul13NonsuchGLOSS/NonsuchParkGLOSSScores.pdf
+1	0	0	0	3	0	0	26880506	0	0	26879836	0	/Events/20191020CompassSport/results/
+1	0	0	0	1	0	0	26879964	0	0	26879964	0	/Events/2012Apr27NonsuchParkSuttonSchools/index.htm
+1	0	0	0	1	0	0	26880020	0	0	26880020	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_9b.html
+1	0	0	0	3	0	0	26881085	0	0	26881057	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/9.html
+1	0	0	0	1	0	0	26880882	0	0	26880882	0	/Events/2006 May 21 Balcombe South East Relays/Photo gallery.htm
+1	0	0	0	1	0	0	26880751	0	0	26880751	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_7.html
+1	0	0	0	1	0	0	26880142	0	0	26880142	0	/smartrun/SmartRunAdventure5km.pdf
+1	0	0	0	1	0	0	26880692	0	0	26880692	0	/Events/20180617SERelayChamps/relay_results/blue_bd_course.html
+1	0	0	0	1	0	0	26880741	0	0	26880741	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/m18s_splits.html
+1	0	0	0	1	0	0	26880963	0	0	26880963	0	/Events/2014Dec21PippingfordSEVets/2014Dec21Results/brown.html
+1	0	0	0	1	0	0	26879885	0	0	26879885	0	/Events/20160403AnniversaryEvent/20160403MainResults.htm
+1	0	0	0	1	0	0	26880874	0	0	26880874	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_sn6.html
+1	0	0	0	1	0	0	26880683	0	0	26880683	0	/Events/2007 Dec 1 White Downs SENiLe/2007 Dec 01 SENiLe White Downs main results page.htm
+1	0	0	0	1	0	0	26880379	0	0	26880379	0	/Events/2014Feb22BritishNights/ProvisionalResults/m21l_splits.html
+1	0	0	0	2	0	0	26880365	0	0	26880204	0	/Events/20190602SprintChamps/results/4_class.html
+1	0	0	0	1	0	0	26880042	0	0	26880042	0	/Events/2009 April 05 Holmbush St Leonard and Buchan Country Park Local Event/2009 Apr 05 Holmbush and St Leonards Forests and Buchan Country Park main page.htm
+1	0	0	0	1	0	0	26881034	0	0	26881034	0	/Events/2007 Aug 19 Whitedowns club picnic/MV picnic event 2007 Graham Sutton 5th place 640 x 480_small.jpg
+1	69	0	0	0	26881078	0	0	26879667	0	0	8970	/robots.txt
+1	0	0	0	3	0	0	26880949	0	0	26879909	0	/The Mole Roll/The Mole Roll.htm
+1	0	0	0	1	0	0	26879810	0	0	26879810	0	/Events/20171210FamsVets/results/brown_course_splits.html
+1	0	0	0	1	0	0	26880274	0	0	26880274	0	/Events/2011 Jun 04 Morden Hall Park Try Orienteering/2011 June 04 Morden Hall Park Try Orienteering main results page.htm
+1	0	0	0	1	0	0	26881077	0	0	26881077	0	/Novice+guide.htm
+1	0	0	0	2	0	0	26880688	0	0	26880453	0	/Events/2004 Apr 24 Banstead Heath Southern Express/24 April Banstead Southern Express results index.htm
+1	0	0	0	1	0	0	26880318	0	0	26880318	0	/Events/2010 June 16 City of London Freemens School/2010 June City of London Freemens School main results page.htm
+1	0	0	0	1	0	0	26880683	0	0	26880683	0	/Events/2006 May 29 Nower limited district event/2006May29 The Nower main results page.htm
+1	0	0	0	1	0	0	26880002	0	0	26880002	0	/cgi-bin/yabb2/YaBB.pl?action=help%3Bsection=admin
+1	0	0	0	2	0	0	26880689	0	0	26880107	0	/Events/2010 Sep 12 Nonsuch Park Try Orienteering/2010 Sep 12 Nonsuch Park Try Orienteering main page.htm
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/2011 Jan 16 Ranmore Common CompassSport Cup and Trophy regional qualifier/Course Start list FINAL.pdf
+1	0	0	0	2	0	0	26880025	0	0	26879965	0	/Jubilee2012/Guide to courses.htm
+1	0	0	0	1	0	0	26880666	0	0	26880666	0	/Jubilee2012/SO Logo 50x102.jpg
+1	0	0	0	1	0	0	26880687	0	0	26880687	0	/Events/2004 Mar 28 Balcombe District Event/Balcombe 28 March 2004 District Event results index.htm
+1	0	0	0	1	0	0	26880426	0	0	26880426	0	/Events/2006 Aug 27 Headley Heath club picnic/Gathered before the run.JPG
+1	0	0	0	1	0	0	26880672	0	0	26880672	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_wcoc5.html
+1	0	0	0	2	0	0	26879977	0	0	26879976	0	/Saturday Series 2006/Oaks Park 23 Sep 2006 course 1 and 2 nosplits.htm
+1	0	0	0	1	0	0	26880493	0	0	26880493	0	/Events/2011 Jun 04 Morden Hall Park Try Orienteering/score_splits.htm
+1	0	0	0	1	0	0	26880686	0	0	26880686	0	/Events/2002 Dec 08 South Ashdown Colour Coded/Results South Ashdown 08 Dec 2002 results index.htm
+1	0	0	0	1	0	0	26880675	0	0	26880675	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_devon7.html
+1	0	0	0	3	0	0	26880766	0	0	26880545	0	/cgi-bin/yabb2/YaBB.pl?num=1158940014/0
+1	0	0	0	1	0	0	26880453	0	0	26880453	0	/Events/2014Feb22BritishNights/ProvisionalResults/m50s_splits.html
+1	0	0	0	2	0	0	26880341	0	0	26880193	0	/Events/2002 May 12 Netley Colour Coded/Results splits Netley Colour Coded Event 12 May 2002 green.htm
+1	0	0	0	14	0	0	26881072	0	0	26879658	0	/POCs/permanent_Orienteering_Courses.htm
+1	0	0	0	1	0	0	26880548	0	0	26880548	0	/Events/2019WinterSeries/index.htm
+1	0	0	0	1	0	0	26879892	0	0	26879892	0	/Events/2014Jul16ParkRaceMordenPark/long_splits.html
+1	0	0	0	1	0	0	26880526	0	0	26880526	0	/Events/2014Dec21PippingfordSEVets/2014Dec21Results/orange_splits.html
+1	0	0	0	1	0	0	26880898	0	0	26880898	0	/Events/20170723GLOSS/results/
+1	0	0	0	3	0	0	26880896	0	0	26880357	0	/Events/2014Feb22BritishNights/ProvisionalResults/1.html
+1	0	0	0	1	0	0	26881049	0	0	26881049	0	/Events/2006 Aug 27 Headley Heath club picnic/Gathered before the run_small.JPG
+1	0	0	0	1	0	0	26880898	0	0	26880898	0	/Events/2012 Jun 05 Balcombe Waterside Jubilee O Festival score event/Picnic_small.JPG
+1	0	0	0	2	0	0	26880628	0	0	26880541	0	/Events/20190825EpsomUrban/results/7_-myj,wyj_course_splits.html
+1	0	0	0	2	0	0	26879701	0	0	26879700	0	/sitemap.xml
+1	0	0	0	5	0	0	26880931	0	0	26879851	0	/cgi-bin/yabb2/YaBB.pl?board=general/0
+1	0	0	0	1	0	0	26880500	0	0	26880500	0	/Events/2006 May 21 Balcombe South East Relays/crsb1.htm
+1	0	0	0	1	0	0	26880662	0	0	26880662	0	/Events/20170827EpsomUrban/20170827Main.htm
+1	0	0	0	1	0	0	26879706	0	0	26879706	0	/Events/20181117SENights/results/
+1	0	0	0	1	0	0	26880906	0	0	26880906	0	/Events/2007 Feb 25 White Downs National Event/beechwood_small.jpg
+1	0	0	0	1	0	0	26881078	0	0	26881078	0	/Misc+results/Results+Netley+Short+O+12+May+splits+2001.htm
+1	0	0	0	1	0	0	26880759	0	0	26880759	0	/Events/2012May27NowerTryO/2012May27nosplits.htm
+1	0	0	0	1	0	0	26881079	0	0	26881079	0	/Events/2018WinterSeries/20190115Results.pdf
+1	0	0	0	1	0	0	26880493	0	0	26880493	0	/Events/2013Mar10Balcombe/2013Mar10Balcombenosplits.htm
+1	0	0	0	1	0	0	26880679	0	0	26880679	0	/Events/2010 Aug 15 Sheepleas Picnic event/Club Picnic 2010 Sheepleas results.htm
+1	0	0	0	24	0	0	26881060	0	0	26879795	0	/Jargon_Buster.htm
+1	0	0	0	2	0	0	26880683	0	0	26880055	0	/Events/2008 July 20 Nork Park Frolic/2008 20 July Nork Park Frolic  main results page.htm
+1	0	0	0	1	0	0	26881085	0	0	26881085	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/w16a_splits.html
+1	0	0	0	1	0	0	26880822	0	0	26880822	0	/Events/2014Feb23PippingfordLeague/FinalResults/short_brown.html
+1	0	0	0	1	0	0	26880140	0	0	26880140	0	/Events/20190210Headley/results/yellow_course_splits.html
+1	0	0	0	1	0	0	26880240	0	0	26880240	0	http://www.mvoc.org/cgi-bin/yabb2/YaBB.pl?num=1158940014
+1	0	0	0	1	0	0	26880416	0	0	26880416	0	/Events/20160403AnniversaryEvent/20160403Results/light_green_course_splits.html
+1	0	0	0	1	0	0	26880684	0	0	26880684	0	/Events/2011 Sep Oct Nonsuch Park Try Orienteering/Try Orienteering Sep Oct 2011 main page.htm
+1	0	0	0	3	0	0	26881035	0	0	26880260	0	/cgi-bin/yabb2/YaBB.pl?action=help;section=global_mod
+1	0	0	0	1	0	0	26880674	0	0	26880674	0	/Events/20191020CompassSport/results/stage1_course_8a_course_splits.html
+1	0	0	0	1	0	0	26879941	0	0	26879941	0	/Events/2014Feb23PippingfordLeague/FinalResults/short_green_splits.html
+1	0	0	0	1	0	0	26880669	0	0	26880669	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_3.html
+1	0	0	0	1	0	0	26880391	0	0	26880391	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2
+1	0	0	0	1	0	0	26880689	0	0	26880689	0	/Events/2003 Mar 08 Headley Heath Southern Express/08 March 2003 Southern Express Headley Heath results.htm
+1	0	0	0	1	0	0	26880670	0	0	26880670	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_6.html
+1	0	0	0	1	0	0	26880394	0	0	26880394	0	/maprunf/maps/Dorking Oct19.pdf
+1	0	0	0	1	0	0	26879921	0	0	26879921	0	/Jubilee2012/Balcombe 256x256.jpg
+1	0	0	0	1	0	0	26880349	0	0	26880349	0	/Events/20170126KNC/20170126NorburyParkKNCDetails.pdf
+1	0	0	0	1	0	0	26880128	0	0	26880128	0	/wp-content/
+1	0	0	0	1	0	0	26880679	0	0	26880679	0	/Events/2007 Aug 19 Whitedowns club picnic/Club Picnic 2007 main results page.htm
+1	0	0	0	1	0	0	26880379	0	0	26880379	0	/images/Nonsuch Park 04 October 2003 03.jpg
+1	0	0	0	1	0	0	26880990	0	0	26880990	0	/apple-touch-icon-120x120-precomposed.png
+1	0	0	0	1	0	0	26880386	0	0	26880386	0	/Events/20161218SEFamsVets/Results/white_course_splits.html
+1	0	0	0	1	0	0	26881071	0	0	26881071	0	/Events/2014Feb22BritishNights/ProvisionalResults/m21l.html
+1	0	0	0	27	0	0	26881059	0	0	26879826	0	/apple-touch-icon-precomposed.png
+1	0	0	0	1	0	0	26880687	0	0	26880687	0	/Events/2006 July 18 Banstead Heath evening event/2006July18 Banstead evening main results page.htm
+1	0	0	0	1	0	0	26880357	0	0	26880357	0	/Events/2014Feb22BritishNights/FinalResults/m21l.html
+1	0	0	0	1	0	0	26880851	0	0	26880851	0	/Events/2014Dec21PippingfordSEVets/2014Dec21Results/blue.html
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2'+AND+'1'+%3D+'2'
+1	0	0	0	1	0	0	26880265	0	0	26880265	0	/Events/20160809NonsuchPark/20160809NonsuchParkFlyer.pdf
+1	0	0	0	1	0	0	26880690	0	0	26880690	0	/Events/2009 Jun 19 Beddington Park Sutton Schools/2009 Jun 19 Beddington Park Sutton Schools main page.htm
+1	0	0	0	1	0	0	26880686	0	0	26880686	0	/Events/2009 Dec 28 St Leonards SE Vets and Families/2009 Dec 28 St Leonards main results page.htm
+1	0	0	0	1	0	0	26880682	0	0	26880682	0	/Events/2008 Aug 17 Box Hill club picnic/Club Picnic 2008 Box Hill main results page.htm
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2'+AND+'1'+%3D+'1'
+1	0	0	0	1	0	0	26880617	0	0	26880617	0	/Events/20150207SouthernChamps/20150207UKOLResults/1.html
+1	0	0	0	1	0	0	26879912	0	0	26879912	0	/Events/2006 Aug 27 Headley Heath club picnic/Alastair Masson is third in the junior competition_small.JPG
+1	0	0	0	16	0	0	26881087	0	0	26879676	0	/Events_Calendar.htm
+1	0	0	0	1	0	0	26880674	0	0	26880674	0	/Events/20191020CompassSport/results/stage1_course_12_course_splits.html
+1	0	0	0	1	0	0	26880688	0	0	26880688	0	/Events/2005 Jul 17 Hogsmill Open Space Frolic/Hogsmill Open Space 17 July 2005 Frolic results index.htm
+1	0	0	0	1	0	0	26880701	0	0	26880701	0	/Events/20180617SERelayChamps/relay_results/green_cd_course.html
+1	0	0	0	1	0	0	26880760	0	0	26880760	0	/Events/20150207SouthernChamps/20150208SouthernChampsResults/
+1	0	0	0	2	0	0	26880741	0	0	26880680	0	/Events/2003 May 31 Surrey Hill Race/Results nosplits Surrey Hill Race 31 May 2003.htm
+1	0	0	0	1	0	0	26880439	0	0	26880439	0	/Events/2010 June 05 Try Orienteering Morden Hall Park/2010 June 05 Morden Hall Park Try Orienteering main results page.htm
+1	0	0	0	1	0	0	26880678	0	0	26880678	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_sarum3.html
+1	0	0	0	1	0	0	26880678	0	0	26880678	0	/Events/2002 Jul 07 Horton Frolic/7 July 2002 Horton Frolic results index.htm
+1	0	0	0	1	0	0	26880676	0	0	26880676	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_int2.html
+1	0	0	0	1	0	0	26880685	0	0	26880685	0	/Events/2007 Feb 25 White Downs National Event/2007Feb25 WhiteDowns National Event main page.htm
+1	0	0	0	1	0	0	26880276	0	0	26880276	0	/Events/2014Feb22BritishNights/FinalResults/m16_splits.html
+1	0	0	0	1	0	0	26880673	0	0	26880673	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_8b.html
+1	0	0	0	1	0	0	26880489	0	0	26880489	0	/Events/2014Dec21PippingfordSEVets/2014Dec21MainResults.htm
+1	0	0	0	1	0	0	26880675	0	0	26880675	0	/Events/2004 Aug 08 Club Picnic/MV Club Picnic Results 08 August 2004.htm
+1	0	0	0	1	0	0	26880685	0	0	26880685	0	/Events/2008 June 17 Nower score event/2008 June 17 The Nower score event main results page.htm
+1	0	0	0	1	0	0	26880974	0	0	26880974	0	/cgi-bin/yabb2/YaBB.pl?num=1160416208/2'
+1	0	0	0	1	0	0	26880386	0	0	26880386	0	/Events/2014Feb22BritishNights/FinalResults/m75s.html
+1	0	0	0	1	0	0	26880571	0	0	26880571	0	/smartrun
+1	0	0	0	1	0	0	26880672	0	0	26880672	0	/Events/20191020CompassSport/results/stage1_course_7_course_splits.html
+1	0	0	0	1	0	0	26880673	0	0	26880673	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_9b.html
+1	0	0	0	1	0	0	26880335	0	0	26880335	0	/Events/20160627Schools/20160627SchoolsFlyer.pdf
+1	0	0	0	1	0	0	26881041	0	0	26881041	0	/Events/20160403AnniversaryEvent/20160403Results/blue_course_splits.html
+1	0	0	0	2	0	0	26880515	0	0	26880011	0	/Events/2007 Dec 2 White Downs Fams and Vets/2 Dec 2007 White Downs District event with fams and vets main results page.htm
+1	0	0	0	1	0	0	26880982	0	0	26880982	0	/Saturday Series 2005/Saturday Series 2005 main page.htm
+1	0	0	0	1	0	0	26880005	0	0	26880005	0	/Events/20170126KNC/results/knc_score_course_splits.html
+1	0	0	0	1	0	0	26880602	0	0	26880602	0	/Events/20191215SEFamsVets/results/stage1_yellow_course_splits.html
+1	0	0	0	1	0	0	26880676	0	0	26880676	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_hoc0.html
+1	0	0	0	2	0	0	26880671	0	0	26880559	0	/Events/20191020CompassSport/results/stage1_course_4_course_splits.html
+1	0	0	0	1	0	0	26880220	0	0	26880220	0	/Events/20161218SEFamsVets/Results/orange_course_splits.html
+1	0	0	0	1	0	0	26880461	0	0	26880461	0	/Events/2013Jul07BeddingtonParkGLOSS/2013Jul07main.htm
+1	0	0	0	1	0	0	26880670	0	0	26880670	0	/Events/20191020CompassSport/results/stage1_course_1_course_splits.html
+1	0	0	0	1	0	0	26880929	0	0	26880929	0	/Events/20180211SouthAshdown/results/
+1	0	0	0	1	0	0	26879777	0	0	26879777	0	/Events/2003 Dec 21 Headley Heath Colour Coded/21 Dec 2003 Headley Heath Colour Coded results splits.htm
+1	0	0	0	1	0	0	26880681	0	0	26880681	0	/Events/2003 Jul 06 Frolic Epsom Downs/6 July 2003 Epsom Downs Frolic results index.htm
+1	0	0	0	1	0	0	26879965	0	0	26879965	0	/Events/2015SummerMoleNights/20150519PolesdenLaceyResult.pdf
+1	0	0	0	1	0	0	26880509	0	0	26880509	0	/Events/20190825EpsomUrban/results/4_--_muv,wsv_course_splits.html
+1	0	0	0	1	0	0	26880401	0	0	26880401	0	/Events/2014Aug24DorkingSEOUL/Results/c_splits.html
+1	0	0	0	1	0	0	26880510	0	0	26880510	0	/Events/2007 Feb 25 White Downs National Event/I_cant_believe_itb.jpg
+1	0	0	0	2	0	0	26880792	0	0	26880643	0	/Events/2013_14WinterSeries/Winter street series details and rules.pdf
+1	0	0	0	10	0	0	26880974	0	0	26879777	0	/cgi-bin/yabb2/YaBB.pl
+1	0	0	0	1	0	0	26880561	0	0	26880561	0	/ueditor/dialogs/internal.js
+1	0	0	0	3	0	0	26880281	0	0	26880012	0	/Misc results/Results Club Picnic 19 Aug 2001.htm
+1	0	0	0	1	0	0	26880973	0	0	26880973	0	/Events/20180617SERelayChamps/relay_results/o_relayoverall.html
+1	0	0	0	1	0	0	26880686	0	0	26880686	0	/Events/2003 Dec 21 Headley Heath Colour Coded/Results Headley Heath21 Dec 2003 results index.htm
+1	0	0	0	1	0	0	26880339	0	0	26880339	0	/Events/2006 May 21 Balcombe South East Relays/Relay team listing.htm
+1	0	0	0	1	0	0	26880990	0	0	26880990	0	/apple-touch-icon-120x120.png
+1	0	0	0	1	0	0	26880907	0	0	26880907	0	/Events/20190825EpsomUrban/results/1_-_mens_open_course.html
+1	0	0	0	1	0	0	26879965	0	0	26879965	0	/images/Epsom Downs 6 September 2003 01.jpg
+1	0	0	0	1	0	0	26880680	0	0	26880680	0	/Events/2002 May 12 Netley Colour Coded/Results Netley 12 May 2002 results index.htm
+1	0	0	0	1	0	0	26881057	0	0	26881057	0	/Events/2006 Aug 27 Headley Heath club picnic/Alastair Masson is third in the junior competition.JPG
+1	0	0	0	1	0	0	26881058	0	0	26881058	0	/Events/2014_15WinterSeries/Ashtead15Jan2015Details.pdf
+1	0	0	0	2	0	0	26880930	0	0	26880765	0	/Events/2003 Feb 09 Box Hill National Event/Results Box Hill 09 Feb 03 M50L.htm
+1	0	0	0	1	0	0	26880859	0	0	26880859	0	/Events/2013May05DorkingUrban/index.htm
+1	0	0	0	1	0	0	26880090	0	0	26880090	0	/Events/2020WinterSeries/registration_form.php
+1	0	0	0	2	0	0	26880915	0	0	26880769	0	/Events/2018WinterSeries/2018League4.pdf
+1	240	240	0	0	26881095	0	0	26879673	0	0	216762	/
+1	0	0	0	1	0	0	26880676	0	0	26880676	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_bl11.html
+1	0	0	0	1	0	0	26881054	0	0	26881054	0	/Events/20191020CompassSport/results/stage1_compass_sport_cup_5.html
+1	0	0	0	1	0	0	26880680	0	0	26880680	0	/Events/2002 Mar 24 Balcombe Badge Event/Results Balcombe 24 Mar 02 results index.htm
+1	0	0	0	2	0	0	26880686	0	0	26880218	0	/Events/2010 July 18 Ashtead Park Frolic/2010 18 July Ashtead Park Frolic  main results page.htm
+1	0	0	0	1	0	0	26880682	0	0	26880682	0	/Events/2009 Jun 06 Beddington Park CAT-O/2009 Jun 06 Beddington Park CATO main page.htm
+1	0	0	0	15	0	0	26881025	0	0	26879736	0	/cgi-bin/yabb2/YaBB.pl?action=search
+1	0	0	0	1	0	0	26879932	0	0	26879932	0	/Events/20190609Nower/results/
+1	0	0	0	1	0	0	26879840	0	0	26879840	0	/Events/2013June02NowerTryO/2013Jun02main.htm
+1	0	0	0	1	0	0	26879706	0	0	26879706	0	/Jubilee2012/home.htm
+1	0	0	0	1	0	0	26880874	0	0	26880874	0	/Events/2014Feb23PippingfordLeague/ProvisionalResults/white.html
+1	0	0	0	1	0	0	26880682	0	0	26880682	0	/Events/2010 Mar 21 St Leonards local event/2010 Mar 21 St Leonards main results page.htm
+1	0	0	0	5	0	0	26880976	0	0	26880132	0	/cgi-bin/yabb2/YaBB.pl?action=help%3Bsection=moderator
+1	0	0	0	1	0	0	26880672	0	0	26880672	0	/Events/20191020CompassSport/results/stage1_compass_sport_trophy_10.html
+3	127	127	0	219	26881095	0	26881095	26879673	0	26879673	151257	http://www.mvoc.org/
+3	0	0	0	1	0	0	26880561	0	0	26880561	0	http://www.mvoc.org/ueditor/dialogs/internal.js
+3	1	1	0	0	26880824	0	0	26880824	0	0	0	https://avtoarenda93.ru/vopros-otvet
+3	0	0	0	1	0	0	26881075	0	0	26881075	0	http://www.mvoc.org/cgi-bin/yabb2/yabb.pl?action=recent
+3	0	0	0	1	0	0	26879936	0	0	26879936	0	http://www.mvoc.org/cgi-bin/yabb2/yabb.pl?action=help
+3	1	1	0	0	26880824	0	0	26880824	0	0	0	https://droidone.ru/cmartfoni
+3	0	0	0	1	0	0	26880573	0	0	26880573	0	http://www.mvoc.org/cgi-bin/yabb2/yabb.pl?num=1181402633/0
+3	1	1	0	0	26880824	0	0	26880824	0	0	0	https://skyacademy.ru/onlayn-kursy/obshchiy-kurs-dlya-bortprovodnikov-biznes-aviatsii/
+3	2	2	0	6	26880338	0	26880338	26880338	0	26879676	0	http://www.guildfordorienteers.co.uk/
+3	1	1	0	0	26880821	0	0	26880821	0	0	0	https://magicbowls.ru/poyushchie-chashi-i-zvukoterapiya-stati-i-teksty
+3	1	1	0	0	26880819	0	0	26880819	0	0	0	https://jofrelab.com/en/manufacturing/world-class-manufacturing/
+3	1	1	0	0	26880832	0	0	26880832	0	0	0	https://lawsexp.com/
+3	1	1	0	0	26880800	0	0	26880800	0	0	0	https://xn--80aea1cgpdh6f.xn--p1ai/optimalnyj-vid-evakuatsii-mototsiklov-po-razumnoj-tsene/
+3	1	1	0	0	26880820	0	0	26880820	0	0	0	https://teman.com.ua/zapchasti/detali_dvigatelya/shesternya-raspredvala
+3	0	0	0	4	0	0	26880718	0	0	26879709	0	http://www.mvoc.org/cgi-bin/yabb2/YaBB.pl?action=login
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	http://worldtranslation.org/en/
+3	3	3	0	0	26880502	0	0	26879829	0	0	3573	https://sg.shuct.net/cache/Google/en/mvoc.org?q=Google+global+ranking+site:ranking.fenban.net
+3	1	1	0	0	26880821	0	0	26880821	0	0	0	https://www.gudzik.kiev.ua/knopki/prishivnue
+3	1	1	0	0	26880819	0	0	26880819	0	0	0	https://www.zlatvrata.ru/
+3	1	1	0	0	26880901	0	0	26880901	0	0	0	https://zapovit.org/dekor-mesta-proshchaniya.html
+3	1	1	0	0	26880823	0	0	26880823	0	0	0	https://ixmaster.xyz/ecommerce/
+3	0	0	0	2	0	0	26880974	0	0	26880920	0	http://www.mvoc.org/cgi-bin/yabb2/YaBB.pl
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	https://trubymaster.ru/
+3	1	1	0	0	26880831	0	0	26880831	0	0	0	https://sdelai-zabor.ru/
+3	1	1	0	0	26880159	0	0	26880159	0	0	0	https://lemurmedia.ru/
+3	1	1	0	0	26880819	0	0	26880819	0	0	0	http://dab-info.ru/
+3	0	0	0	2	0	0	26880011	0	0	26879756	0	http://www.mvoc.org/Club Management/Club Contacts.htm
+3	0	0	0	5	0	0	26880813	0	0	26880813	0	http://www.mvoc.org/Jargon_Buster.htm
+3	1	1	0	0	26880159	0	0	26880159	0	0	0	https://cyclone.kiev.ua/
+3	0	0	0	5	0	0	26880445	0	0	26879756	0	https://www.google.com/
+3	1	1	0	0	26880159	0	0	26880159	0	0	0	https://news54.ru/
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	https://hololenses.ru/
+3	1	1	0	0	26880147	0	0	26880147	0	0	0	https://kozhnye.ru/
+3	0	0	0	4	0	0	26880718	0	0	26879709	0	http://www.mvoc.org/cgi-bin/yabb2/yabb.pl?action=login
+3	1	1	0	0	26880824	0	0	26880824	0	0	0	https://open4u.co.uk/branches/subway.html
+3	0	0	0	30	0	0	26881077	0	0	26879657	0	http://www.mvoc.org/POCs/poc_map_form.php?map=2
+3	17	17	0	15	26881018	0	26881085	26879795	0	26879907	20247	http://mvoc.org/
+3	0	0	0	1	0	0	26880259	0	0	26880259	0	http://www.mvoc.org/The Mole Roll/The Mole Roll.htm
+3	0	0	0	17	0	0	26880994	0	0	26879795	0	http://mvoc.org/Jargon_Buster.htm
+3	0	0	0	1	0	0	26880444	0	0	26880444	0	http://mvoc.org/POCs/poc_map_form.php
+3	0	0	0	5	0	0	26880974	0	0	26879928	0	http://www.mvoc.org/cgi-bin/yabb2/yabb.pl
+3	1	1	0	0	26880163	0	0	26880163	0	0	0	https://mastera.org.ua/
+3	1	1	0	0	26880800	0	0	26880800	0	0	0	https://inzuro.ru/greencard/
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	https://recirkulatoru.ru/
+3	0	0	0	1	0	0	26880441	0	0	26880441	0	http://www.mvoc.org/POCs/POC order form - May 11.pdf
+3	0	0	0	1	0	0	26880011	0	0	26880011	0	https://www.google.co.uk/
+3	1	1	0	0	26880149	0	0	26880149	0	0	0	https://piteika.com/
+3	1	1	0	0	26880155	0	0	26880155	0	0	0	https://restvannaspb.ru/
+3	1	1	0	0	26880819	0	0	26880819	0	0	0	https://forumprestige.ru/
+3	1	1	0	0	26880163	0	0	26880163	0	0	0	https://urok-otvet.ru/
+3	1	1	0	0	26880170	0	0	26880170	0	0	0	http://firstsmi.ru/
+3	1	1	0	0	26880159	0	0	26880159	0	0	0	https://pipeplast.com.ua/
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	http://uzinform.com.ua/
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	https://lodki-pvh.com.ua/
+3	0	0	0	2	0	0	26880259	0	0	26880259	0	https://uk.search.yahoo.com/
+3	0	0	0	1	0	0	26881075	0	0	26881075	0	http://www.mvoc.org/cgi-bin/yabb2/YaBB.pl?action=recent
+3	0	0	0	1	0	0	26879936	0	0	26879936	0	http://www.mvoc.org/cgi-bin/yabb2/YaBB.pl?action=help
+3	0	0	0	4	0	0	26879963	0	0	26879658	0	http://www.mvoc.org/POCs/permanent_Orienteering_Courses.htm
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	https://in-vk.com/
+3	1	0	0	0	26879726	0	0	26879726	0	0	130	http://www.mvoc.org/robots.txt
+3	0	0	0	1	0	0	26880573	0	0	26880573	0	http://www.mvoc.org/cgi-bin/yabb2/YaBB.pl?num=1181402633/0
+3	1	1	0	0	26880821	0	0	26880821	0	0	0	https://xn--80aae7avmmg0g.net/
+3	1	1	0	0	26880821	0	0	26880821	0	0	0	https://salesmasters.ru/category/potencial-klienta/
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	http://artlife.rv.ua/?area=articles/group/25/
+3	1	1	0	0	26880832	0	0	26880832	0	0	0	https://otoplenie-pro.com/
+3	1	1	0	0	26880146	0	0	26880146	0	0	0	https://vyrashhivanie-iz-semyan.ru/
+3	1	1	0	0	26880821	0	0	26880821	0	0	0	https://www.montenegra.com/montenegro-holiday-rentals/4-bedroom-apartments/herceg-novi/savina
+4	1	1	0	0	26880147	0	0	26880147	0	0	0	Mozilla/3.0 (compatible; MSIE4.00; Windows 2003)
+4	2	2	0	2	26881025	0	26881025	26880864	0	26880864	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3298.4 Safari/537.36
+4	0	0	0	1	0	0	26880500	0	0	26880500	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:83.0) Gecko/20100101 Firefox/83.0
+4	2	2	0	3	26880656	0	26880656	26880482	0	26880482	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.0 Safari/537.36
+4	2	0	0	12	26880356	0	26880358	26880155	0	26880155	260	Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+4	2	2	0	0	26880320	0	0	26880295	0	0	2382	GuzzleHttp/6.2.1 curl/7.29.0 PHP/5.6.31
+4	1	1	0	0	26880696	0	0	26880696	0	0	1191	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+4	0	0	0	1	0	0	26880660	0	0	26880660	0	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+4	1	1	0	1	26880875	0	26880875	26880875	0	26880875	1191	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+4	0	0	0	1	0	0	26880500	0	0	26880500	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 OPR/72.0.3815.320
+4	1	1	0	1	26880161	0	26880161	26880161	0	26880161	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4086.0 Safari/537.36
+4	1	1	0	0	26880163	0	0	26880163	0	0	0	Mozilla/8.0 (compatible; MSIE6.00; Windows 2002)
+4	1	1	0	0	26880832	0	0	26880832	0	0	0	Mozilla/3.0 (compatible; MSIE5.00; Windows 2007)
+4	3	3	0	3	26880545	0	26880545	26879860	0	26879860	3573	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+4	2	2	0	2	26880959	0	26880959	26880093	0	26880093	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
+4	35	0	0	91	26881078	0	26881078	26879700	0	26879700	4550	Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+4	4	4	0	4	26880931	0	26880931	26879717	0	26879717	4764	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36,gzip(gfe)
+4	0	0	0	1	0	0	26880309	0	0	26880309	0	Mozilla/5.0 (Windows NT 10.0; ) Gecko/20100101 Firefox/61.0
+4	0	0	0	1	0	0	26880135	0	0	26880135	0	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+4	1	1	0	1	26880629	0	26881077	26880629	0	26881077	1191	'Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.com/'
+4	1	1	0	1	26880211	0	26880211	26880211	0	26880211	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+4	3	3	0	4	26880673	0	26880673	26880383	0	26880383	3573	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36
+4	1	1	0	1	26880677	0	26880677	26880677	0	26880677	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36/iYA9HebN-7
+4	2	2	0	2	26880410	0	26880410	26880342	0	26880341	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.9) Gecko/20100101 Goanna/3.4 Firefox/52.9 PaleMoon/27.9.0
+4	2	2	0	2	26880253	0	26880253	26879961	0	26879961	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3423.2 Safari/537.36
+4	1	1	0	9	26880402	0	26880969	26880402	0	26880402	1191	Mozilla/5.0 (Linux; Android 10; ONEPLUS A5000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.141 Mobile Safari/537.36
+4	0	0	0	6	0	0	26881000	0	0	26879826	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko)
+4	2	2	0	2	26880359	0	26880359	26880149	0	26880149	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63
+4	3	3	0	0	26880502	0	0	26879829	0	0	3573	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;
+4	0	0	0	1	0	0	26880204	0	0	26880204	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+4	1	1	0	0	26880901	0	0	26880901	0	0	0	Mozilla/4.0 (compatible; MSIE2.00; Windows 2004)
+4	1	1	0	0	26880824	0	0	26880824	0	0	0	Mozilla/8.0 (compatible; MSIE2.00; Windows 2007)
+4	0	0	0	4	0	0	26880748	0	0	26880748	0	Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36
+4	0	0	0	2	0	0	26880416	0	0	26880416	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+4	0	0	0	1	0	0	26881085	0	0	26881085	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.400
+4	1	1	0	0	26880146	0	0	26880146	0	0	0	Mozilla/2.0 (compatible; MSIE3.00; Windows 2007)
+4	2	2	0	4	26880954	0	26880880	26880214	0	26880877	2382	Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+4	0	0	0	1	0	0	26880814	0	0	26880814	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36
+4	1	0	0	0	26879726	0	0	26879726	0	0	130	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+4	4	4	0	4	26881035	0	26881035	26880203	0	26880203	4764	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3315.3 Safari/537.36
+4	0	0	0	1	0	0	26880223	0	0	26880223	0	Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+4	0	0	0	3	0	0	26880882	0	0	26880878	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+4	1	1	0	1	26880904	0	26880904	26880904	0	26880904	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3451.0 Safari/537.36
+4	0	0	0	1	0	0	26880258	0	0	26880258	0	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+4	1	1	0	0	26880821	0	0	26880821	0	0	0	Mozilla/3.0 (compatible; MSIE5.00; Windows 2003)
+4	1	1	0	0	26880821	0	0	26880821	0	0	0	Mozilla/8.0 (compatible; MSIE7.00; Windows 2003)
+4	1	1	0	1	26880589	0	26880589	26880589	0	26880589	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/21.0
+4	0	0	0	3	0	0	26880605	0	0	26879657	0	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+4	1	1	0	0	26880823	0	0	26880823	0	0	0	Mozilla/4.0 (compatible; MSIE2.00; Windows 2002)
+4	1	1	0	1	26879854	0	26879854	26879854	0	26879854	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+4	1	1	0	0	26880824	0	0	26880824	0	0	0	Mozilla/5.0 (compatible; MSIE6.00; Windows 2009)
+4	6	3	0	0	26880278	0	0	26879706	0	0	3963	ZoominfoBot (zoominfobot at zoominfo dot com)
+4	2	2	0	2	26880235	0	26880235	26879996	0	26879996	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.106 Safari/537.36
+4	0	0	0	2	0	0	26880221	0	0	26880154	0	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+4	1	1	0	1	26880170	0	26880170	26880170	0	26880170	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36 GD
+4	1	1	0	2	26880718	0	26880718	26880718	0	26880718	1191	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.44 Safari/537.36
+4	1	1	0	1	26880297	0	26880297	26880297	0	26880297	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.15 Safari/537.36
+4	1	1	0	0	26880307	0	0	26880307	0	0	1191	Boost.Beast/277
+4	1	1	0	7	26880990	0	26880990	26880990	0	26879658	1191	Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1
+4	1	1	0	0	26880819	0	0	26880819	0	0	0	Mozilla/5.0 (compatible; MSIE6.00; Windows 2008)
+4	0	0	0	1	0	0	26880561	0	0	26880561	0	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+4	0	0	0	1	0	0	26880051	0	0	26880051	0	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+4	1	1	0	0	26880159	0	0	26880159	0	0	0	Mozilla/6.0 (compatible; MSIE2.00; Windows 2002)
+4	0	0	0	1	0	0	26880609	0	0	26880609	0	Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
+4	2	2	0	2	26880400	0	26880400	26880300	0	26880300	2382	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2909.87 Safari/537.36
+4	5	5	0	5	26880970	0	26880970	26879961	0	26879961	5955	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+4	1	1	0	1	26880677	0	26880677	26880677	0	26880677	1191	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.24 Safari/537.36 Edg/83.0.478.18
+4	1	1	0	0	26880821	0	0	26880821	0	0	0	Mozilla/5.0 (compatible; MSIE6.00; Windows 2007)
+4	0	0	0	1	0	0	26879976	0	0	26879976	0	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+4	3	3	0	3	26880537	0	26880537	26880090	0	26880090	3573	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+4	1	1	0	3	26880977	0	26880977	26880977	0	26879756	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0
+4	3	3	0	3	26880953	0	26880953	26879851	0	26879851	3573	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36
+4	2	0	0	0	26880428	0	0	26879889	0	0	260	Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+4	0	0	0	1	0	0	26881085	0	0	26881085	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+4	0	0	0	1	0	0	26880252	0	0	26880252	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+4	1	1	0	1	26880796	0	26880796	26880796	0	26880796	1191	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36 JuziBrowser
+4	1	1	0	0	26880170	0	0	26880170	0	0	0	Mozilla/5.0 (compatible; MSIE6.00; Windows 2006)
+4	3	3	0	2	26880849	0	26880849	26880229	0	26880229	3573	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 YaBrowser/18.2.0.284 Yowser/2.5 Safari/537.36
+4	0	0	0	2	0	0	26879963	0	0	26879963	0	Mozilla/5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
+4	1	1	0	1	26880583	0	26880583	26880583	0	26880583	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3397.0 Safari/537.36
+4	2	2	0	3	26880677	0	26880677	26879936	0	26879936	2382	Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	1	1	0	1	26880861	0	26880861	26880861	0	26880861	1191	Mozilla/5.0 (MSIE 9.0; qdesk 2.4.1266.203; Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+4	1	1	0	5	26879921	0	26880043	26879921	0	26879870	1191	Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+4	1	1	0	1	26879843	0	26879843	26879843	0	26879843	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko)
+4	0	0	0	1	0	0	26880892	0	0	26880892	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.149 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	1	1	0	1	26881005	0	26881005	26881005	0	26881005	1191	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.95 Safari/537.36 Core/1.50.1659.400 QQBrowser/9.5.9769.400
+4	1	1	0	0	26880819	0	0	26880819	0	0	0	Mozilla/8.0 (compatible; MSIE3.00; Windows 2005)
+4	1	1	0	0	26880149	0	0	26880149	0	0	0	Mozilla/5.0 (compatible; MSIE6.00; Windows 2004)
+4	0	0	0	1	0	0	26880047	0	0	26880047	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+4	1	1	0	2	26880573	0	26880573	26880573	0	26880573	1191	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36 Edg/83.0.478.37
+4	1	1	0	0	26880159	0	0	26880159	0	0	0	Mozilla/2.0 (compatible; MSIE4.00; Windows 2005)
+4	1	1	0	1	26881033	0	26881033	26881033	0	26881033	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.99
+4	1	1	0	0	26880928	0	0	26880928	0	0	1191	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+4	2	2	0	3	26880920	0	26880920	26880677	0	26880677	2382	Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	1	1	0	0	26880821	0	0	26880821	0	0	0	Mozilla/5.0 (compatible; MSIE6.00; Windows 2003)
+4	4	0	0	5	26880025	0	26880025	26879706	0	26879706	520	Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+4	1	1	0	0	26880736	0	0	26880736	0	0	1191	Mozilla/5.0 (X11; Linux x86_64; rv:56.0) Gecko/20100101 Firefox/56.0.4 Waterfox/56.0.4
+4	3	3	0	3	26880813	0	26880813	26880677	0	26880677	3573	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4093.3 Safari/537.36
+4	1	1	0	0	26880819	0	0	26880819	0	0	0	Mozilla/7.0 (compatible; MSIE7.00; Windows 2009)
+4	1	1	0	0	26880163	0	0	26880163	0	0	0	Mozilla/8.0 (compatible; MSIE3.00; Windows 2003)
+4	1	1	0	1	26880976	0	26880976	26880976	0	26880976	1191	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/535.14.61 (KHTML, like Gecko) Chrome/53.5.0289.5916 Safari/534.43
+4	2	2	0	0	26880819	0	0	26880800	0	0	0	Mozilla/8.0 (compatible; MSIE4.00; Windows 2008)
+4	3	3	0	3	26881024	0	26881024	26880429	0	26880429	3573	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+4	1	1	0	1	26880660	0	26880660	26880660	0	26880660	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+4	2	2	0	0	26880706	0	0	26880101	0	0	2382	Mozilla/5.0 (compatible; evc-batch/2.0)
+4	0	0	0	1	0	0	26880682	0	0	26880682	0	Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+4	3	3	0	4	26880504	0	26880504	26879709	0	26879709	3573	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4098.0 Safari/537.36
+4	1	1	0	0	26880821	0	0	26880821	0	0	0	Mozilla/8.0 (compatible; MSIE4.00; Windows 2007)
+4	1	1	0	1	26880743	0	26880743	26880743	0	26880743	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4096.0 Safari/537.36
+4	1	1	0	0	26880146	0	0	26880146	0	0	0	Mozilla/5.0 (compatible; MSIE7.00; Windows 2006)
+4	0	0	0	1	0	0	26880500	0	0	26880500	0	Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+4	1	1	0	1	26880970	0	26880970	26880970	0	26880970	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.68
+4	15	15	0	14	26881085	0	26881085	26879907	0	26879907	1191	Mozilla/5.0 (Linux; Android 10; SM-A908B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36
+4	1	1	0	1	26880338	0	26880338	26880338	0	26880338	1191	Mozilla/5.0 (Windows NT 10.0; rv:60.0) Gecko/20100101 Firefox/60.0.2
+4	1	1	0	1	26880869	0	26880869	26880869	0	26880869	1191	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 YaBrowser/18.3.1.1232 Yowser/2.5 Safari/537.36
+4	0	0	0	1	0	0	26879977	0	0	26879977	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+4	1	1	0	1	26880262	0	26880262	26880262	0	26880262	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134,gzip(gfe)
+4	1	1	0	1	26879917	0	26879917	26879917	0	26879917	1191	Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv 11.0) like Gecko
+4	1	1	0	1	26879795	0	26879795	26879795	0	26879795	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4089.0 Safari/537.36
+4	1	1	0	0	26880146	0	0	26880146	0	0	0	Mozilla/4.0 (compatible; MSIE4.00; Windows 2003)
+4	0	0	0	2	0	0	26880539	0	0	26880404	0	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+4	0	0	0	6	0	0	26881000	0	0	26879826	0	Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+4	1	1	0	1	26879684	0	26879684	26879684	0	26879684	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+4	0	0	0	1	0	0	26880500	0	0	26880500	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+4	0	0	0	1	0	0	26879935	0	0	26879935	0	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+4	0	0	0	1	0	0	26879659	0	0	26879659	0	Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 EdgiOS/45.12.11 Mobile/15E148 Safari/605.1.15
+4	1	1	0	1	26880813	0	26880813	26880813	0	26880813	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.34 Safari/537.36 Edg/83.0.478.25
+4	1	1	0	1	26880698	0	26880698	26880698	0	26880698	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2907.57
+4	0	0	0	4	0	0	26880990	0	0	26880990	0	MobileSafari/604.1 CFNetwork/1209 Darwin/20.2.0
+4	2	2	0	3	26880917	0	26880917	26880873	0	26880051	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.42
+4	1	1	0	1	26879736	0	26879736	26879736	0	26879736	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3393.4 Safari/537.36
+4	2	2	0	2	26880854	0	26880854	26880699	0	26880699	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36,gzip(gfe)
+4	2	2	0	2	26880813	0	26880813	26880649	0	26880649	2382	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+4	1	0	0	2	26880668	0	26880954	26880668	0	26880882	130	Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	2	0	0	26880011	0	0	26880011	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+4	1	1	0	0	26880507	0	0	26880507	0	0	1191	Mozilla/5.0 (Windows NT 6.1; Win64; x64; +http://www.komodia.com/newwiki/index.php/URL_server_crawler) KomodiaBot/1.0
+4	0	0	0	1	0	0	26880260	0	0	26880260	0	Mozilla/5.0 (Wayland; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+4	0	0	0	13	0	0	26880974	0	0	26880974	0	Go-http-client/1.1
+4	2	2	0	2	26880865	0	26880865	26879783	0	26879783	2382	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+4	2	2	0	2	26880994	0	26880994	26880593	0	26880593	2382	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4093.3 Safari/537.36
+4	0	0	0	1	0	0	26880500	0	0	26880500	0	Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+4	0	0	0	1	0	0	26880316	0	0	26880316	0	Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+4	1	1	0	1	26880423	0	26880423	26880423	0	26880423	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36,gzip(gfe)
+4	3	3	0	3	26880552	0	26880552	26879673	0	26879673	3573	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36
+4	0	0	0	2	0	0	26880675	0	0	26880275	0	Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+4	1	1	0	1	26880105	0	26880105	26880105	0	26880105	1191	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36
+4	0	0	0	2	0	0	26880547	0	0	26879987	0	Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+4	0	0	0	72	0	0	26881000	0	0	26879826	0	Safari/12607.3.10 CFNetwork/811.11 Darwin/16.7.0 (x86_64)
+4	0	0	0	1	0	0	26881085	0	0	26881085	0	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+4	0	0	0	2	0	0	26880134	0	0	26879852	0	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+4	1	1	0	0	26880820	0	0	26880820	0	0	0	Mozilla/5.0 (compatible; MSIE2.00; Windows 2004)
+4	1	1	0	0	26880832	0	0	26880832	0	0	0	Mozilla/7.0 (compatible; MSIE7.00; Windows 2003)
+4	0	0	0	8	0	0	26881059	0	0	26881052	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+4	1	1	0	0	26880146	0	0	26880146	0	0	0	Mozilla/3.0 (compatible; MSIE2.00; Windows 2002)
+4	1	1	0	1	26880400	0	26880400	26880400	0	26880400	1191	Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4086.0 Safari/537.36
+4	2	1	0	0	26879853	0	0	26879853	0	0	1321	MTRobot/0.2 (Metrics Tools Analytics Crawler; https://metrics-tools.de/robot.html; crawler@metrics-tools.de)
+4	2	2	0	0	26880146	0	0	26880146	0	0	0	Mozilla/5.0 (compatible; MSIE3.00; Windows 2008)
+4	0	0	0	3	0	0	26880128	0	0	26880086	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+4	1	1	0	1	26879788	0	26879788	26879788	0	26879788	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Whale/1.0.40.10 Safari/537.36
+4	1	1	0	0	26880146	0	0	26880146	0	0	0	Mozilla/7.0 (compatible; MSIE2.00; Windows 2004)
+4	5	0	0	5	26880814	0	26880814	26879723	0	26879723	650	Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+4	0	0	0	1	0	0	26879659	0	0	26879659	0	Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+4	0	0	0	5	0	0	26881079	0	0	26880668	0	Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.140 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+4	0	0	0	1	0	0	26880500	0	0	26880500	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.400
+4	1	1	0	1	26880766	0	26880766	26880766	0	26880766	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
+4	1	1	0	0	26880159	0	0	26880159	0	0	0	Mozilla/4.0 (compatible; MSIE6.00; Windows 2007)
+4	5	1	0	3	26880571	0	26880571	26880260	0	26880506	1711	Twitterbot/1.0
+4	0	0	0	1	0	0	26881085	0	0	26881085	0	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+4	1	1	0	1	26879807	0	26879807	26879807	0	26879807	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/608.1.10 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+4	0	0	0	1	0	0	26880093	0	0	26880093	0	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+4	3	3	0	4	26880997	0	26880997	26880013	0	26880013	3573	Mozilla/5.0 (Windows NT 10.0; rv:60.0) Gecko/20100101 Firefox/60.0
+4	2	2	0	2	26880218	0	26880216	26879784	0	26879784	2382	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3450.0 Iron Safari/537.36 Puffin/7.5.3.392 Edge/12.0 Iridium/50.2 AppleWebKit/537.36 Chrome/62
+4	2	2	0	2	26881095	0	26881095	26880720	0	26880720	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/D3117A87
+4	0	0	0	1	0	0	26881038	0	0	26881038	0	Apache/2.4.34 (Ubuntu) OpenSSL/1.1.1 (internal dummy connection)
+4	2	2	0	8	26880338	0	26880833	26880338	0	26879676	0	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+4	4	0	0	0	26880544	0	0	26880175	0	0	520	(compatible;PetalBot;+https://aspiegel.com/petalbot)
+4	1	1	0	0	26880344	0	0	26880344	0	0	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+4	2	2	0	2	26880934	0	26880934	26880817	0	26880817	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.189 Safari/537.36 Vivaldi/1.95.1077.60
+4	0	0	0	7	0	0	26881087	0	0	26881060	0	Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.com/
+4	2	1	0	0	26880754	0	0	26880754	0	0	1321	Mozilla/5.0 (compatible; aiHitBot/2.9; +https://www.aihitdata.com/about)
+4	0	0	0	2	0	0	26880500	0	0	26879705	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+4	2	2	0	0	26880159	0	0	26880155	0	0	0	Mozilla/7.0 (compatible; MSIE3.00; Windows 2006)
+4	3	3	0	4	26880813	0	26880813	26879928	0	26879928	3573	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4102.0 Safari/537.36
+4	5	3	0	151	26881015	0	26881093	26880178	0	26879903	3833	Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+4	2	2	0	0	26880824	0	0	26880146	0	0	0	Mozilla/8.0 (compatible; MSIE6.00; Windows 2008)
+4	0	0	0	1	0	0	26880500	0	0	26880500	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57
+4	0	0	0	2	0	0	26880370	0	0	26880368	0	facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+4	2	2	0	4	26881075	0	26881075	26880974	0	26880974	2382	Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.34 Safari/537.36 Edg/83.0.478.25
+4	1	1	0	0	26880800	0	0	26880800	0	0	0	Mozilla/8.0 (compatible; MSIE5.00; Windows 2002)
+4	0	0	0	2	0	0	26880838	0	0	26880745	0	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+4	3	3	0	3	26880975	0	26880975	26879777	0	26879777	3573	Mozilla/5.0 (MSIE 9.0; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+4	2	2	0	2	26881068	0	26881068	26879879	0	26879879	2382	Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/535.11.68 (KHTML, like Gecko) Chrome/53.6.0969.5697 Safari/534.50
+4	0	0	0	3	0	0	26880259	0	0	26880259	0	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+4	1	1	0	0	26880696	0	0	26880696	0	0	1191	Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; TencentTraveler ; EmbeddedWB 14.52 from: http://www.bsalsa.com/ EmbeddedWB 14.52; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.590; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+4	1	1	0	1	26880664	0	26880664	26880664	0	26880664	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.97.1182.8
+4	1	1	0	0	26881056	0	0	26881056	0	0	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+4	1	1	0	0	26880831	0	0	26880831	0	0	0	Mozilla/5.0 (compatible; MSIE3.00; Windows 2002)
+4	1	1	0	1	26880520	0	26880520	26880520	0	26880520	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+4	1	1	0	1	26880354	0	26880354	26880354	0	26880354	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_20_77) AppleWebKit/531.71.18 (KHTML, like Gecko) Chrome/55.1.6997.1625 Safari/532.00 Edge/36.04460
+4	1	1	0	1	26880466	0	26880466	26880466	0	26880466	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3451.0 Safari/537.36
+4	1	1	0	1	26880442	0	26880442	26880442	0	26880442	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0,gzip(gfe)
+4	5	5	0	5	26881034	0	26881034	26880391	0	26880391	5955	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40,gzip(gfe)
+4	6	6	0	6	26880959	0	26880959	26879718	0	26879718	7146	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3238.0 Safari/537.36
+4	1	1	0	0	26881018	0	0	26881018	0	0	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+4	2	2	0	2	26880711	0	26880711	26880361	0	26880361	2382	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.99
+4	3	1	0	100	26880872	0	26880691	26880668	0	26880669	1451	Mozilla/5.0 (compatible; Adsbot/3.1)
+4	1	1	0	1	26880129	0	26880129	26880129	0	26880129	1191	Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+4	1	1	0	1	26880703	0	26880703	26880703	0	26880703	1191	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3428.0 Safari/537.36
+4	1	1	0	0	26880146	0	0	26880146	0	0	0	Mozilla/3.0 (compatible; MSIE4.00; Windows 2004)
+4	0	0	0	1	0	0	26881085	0	0	26881085	0	Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+4	0	0	0	2	0	0	26881077	0	0	26880744	0	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+4	1	1	0	1	26880739	0	26880739	26880739	0	26880739	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/[WEBKIT_VERSION] (KHTML, like Gecko, Mediapartners-Google) Chrome/[CHROME_VERSION] Safari/[WEBKIT_VERSION]
+4	1	1	0	0	26880824	0	0	26880824	0	0	0	Mozilla/8.0 (compatible; MSIE7.00; Windows 2009)
+4	0	0	0	1	0	0	26880609	0	0	26880609	0	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55
+4	3	3	0	0	26880456	0	0	26879855	0	0	1191	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:85.0) Gecko/20100101 Firefox/85.0
+4	0	0	0	1	0	0	26880731	0	0	26880731	0	Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+4	2	0	0	39	26879693	0	26881059	26879667	0	26879667	260	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)
+5	1	0	0	0	26879700	0	0	26879700	0	0	130	185.191.171.38
+5	0	0	0	1	0	0	26880833	0	0	26880833	0	46.38.235.14
+5	1	0	0	4	26880365	0	26880633	26880365	0	26879902	130	185.191.171.37
+5	0	0	0	1	0	0	26881075	0	0	26881075	0	95.217.122.123
+5	0	0	0	1	0	0	26880865	0	0	26880865	0	114.108.177.104
+5	1	1	0	0	26880120	0	0	26880120	0	0	1191	106.75.246.84
+5	1	0	0	0	26880276	0	0	26880276	0	0	130	185.191.171.36
+5	1	1	0	1	26880400	0	26880400	26880400	0	26880400	1191	178.159.37.163
+5	1	0	0	2	26880220	0	26879898	26880220	0	26879701	130	185.191.171.35
+5	0	0	0	1	0	0	26880859	0	0	26880859	0	185.191.171.34
+5	1	0	0	1	26880209	0	26880500	26880209	0	26880500	130	185.191.171.33
+5	1	1	0	1	26880459	0	26880459	26880459	0	26880459	1191	173.44.167.249
+5	0	0	0	1	0	0	26880969	0	0	26880969	0	82.132.247.243
+5	1	1	0	1	26880583	0	26880583	26880583	0	26880583	1191	178.159.37.157
+5	1	0	0	1	26880618	0	26880618	26880618	0	26880618	130	167.114.173.115
+5	1	1	0	1	26879736	0	26879736	26879736	0	26879736	1191	103.221.232.175
+5	1	1	0	1	26880402	0	26880402	26880402	0	26880402	1191	77.98.74.92
+5	1	1	0	1	26879718	0	26879718	26879718	0	26879718	1191	185.166.215.63
+5	2	2	0	2	26880552	0	26880552	26879917	0	26879917	2382	125.235.235.52
+5	1	0	0	1	26880140	0	26880929	26880140	0	26880929	130	185.191.171.26
+5	1	0	0	1	26880033	0	26880283	26880033	0	26880283	130	185.191.171.25
+5	2	0	0	4	26880907	0	26880947	26879965	0	26879701	260	185.191.171.24
+5	1	1	0	1	26879907	0	26879907	26879907	0	26879907	1191	109.144.29.172
+5	1	0	0	1	26880453	0	26880950	26880453	0	26880950	130	185.191.171.23
+5	1	1	0	1	26880994	0	26880994	26880994	0	26880994	1191	176.114.153.10
+5	1	1	0	2	26879921	0	26880043	26879921	0	26879921	1191	31.127.252.43
+5	2	0	0	6	26881078	0	26881078	26881060	0	26879753	260	185.191.171.22
+5	0	0	0	5	0	0	26881071	0	0	26879751	0	185.191.171.21
+5	0	0	0	3	0	0	26880679	0	0	26880140	0	185.191.171.20
+5	2	0	0	1	26880536	0	26880973	26879701	0	26880973	260	185.191.171.19
+5	1	1	0	1	26880354	0	26880354	26880354	0	26880354	1191	37.72.186.135
+5	0	0	0	1	0	0	26880684	0	0	26880684	0	185.191.171.18
+5	0	0	0	4	0	0	26880562	0	0	26880142	0	185.191.171.17
+5	2	2	0	0	26880706	0	0	26880101	0	0	2382	64.71.131.244
+5	1	0	0	2	26880822	0	26880874	26880822	0	26879760	130	185.191.171.16
+5	2	0	0	1	26880811	0	26879885	26879760	0	26879885	260	185.191.171.15
+5	0	0	0	1	0	0	26880397	0	0	26880397	0	185.191.171.14
+5	2	0	0	1	26880628	0	26880868	26880526	0	26880868	260	185.191.171.13
+5	1	1	0	1	26881068	0	26881068	26881068	0	26881068	1191	91.210.47.85
+5	1	0	0	0	26880991	0	0	26880991	0	0	130	185.191.171.12
+5	1	0	0	2	26879868	0	26880963	26879868	0	26879937	130	185.191.171.11
+5	2	0	0	4	26880874	0	26880526	26880142	0	26879868	260	185.191.171.10
+5	0	0	0	1	0	0	26880675	0	0	26880675	0	184.105.146.50
+5	0	0	0	39	0	0	26881059	0	0	26879667	0	17.58.101.190
+5	1	1	0	0	26880629	0	0	26880629	0	0	1191	95.217.228.58
+5	0	0	0	1	0	0	26881077	0	0	26881077	0	95.217.228.57
+5	0	0	0	1	0	0	26881077	0	0	26881077	0	195.154.179.3
+5	0	0	0	1	0	0	26879657	0	0	26879657	0	31.220.3.99
+5	2	2	0	6	26880338	0	26880338	26880338	0	26879676	0	94.136.40.100
+5	0	0	0	8	0	0	26881059	0	0	26881052	0	86.13.121.5
+5	1	1	0	1	26881005	0	26881005	26881005	0	26881005	1191	110.137.89.11
+5	0	0	0	2	0	0	26880882	0	0	26880880	0	49.7.20.28
+5	1	1	0	1	26880105	0	26880105	26880105	0	26880105	1191	37.72.186.114
+5	1	1	0	1	26880893	0	26880893	26880893	0	26880893	1191	46.188.82.11
+5	1	1	0	1	26880442	0	26880442	26880442	0	26880442	1191	162.212.169.39
+5	1	1	0	1	26880756	0	26880756	26880756	0	26880756	1191	180.250.12.10
+5	0	0	0	1	0	0	26880561	0	0	26880561	0	120.78.180.36
+5	0	0	0	1	0	0	26879852	0	0	26879852	0	144.168.164.26
+5	2	2	0	0	26880831	0	0	26880163	0	0	0	194.67.207.94
+5	2	2	0	0	26880832	0	0	26880170	0	0	0	185.5.249.185
+5	0	0	0	1	0	0	26880384	0	0	26880384	0	24.249.199.14
+5	1	1	0	1	26880970	0	26880970	26880970	0	26880970	1191	170.83.176.74
+5	2	2	0	2	26880318	0	26880318	26880297	0	26880297	2382	107.158.93.179
+5	1	1	0	0	26880832	0	0	26880832	0	0	0	193.124.191.92
+5	1	1	0	1	26880361	0	26880361	26880361	0	26880361	1191	82.208.133.138
+5	1	1	0	1	26879784	0	26879784	26879784	0	26879784	1191	162.212.169.115
+5	1	1	0	1	26880975	0	26880975	26880975	0	26880975	1191	84.193.33.56
+5	1	0	0	0	26879667	0	0	26879667	0	0	130	17.58.101.145
+5	0	0	0	4	0	0	26881049	0	0	26880643	0	207.46.13.2
+5	1	1	0	1	26880537	0	26880537	26880537	0	26880537	1191	173.232.226.170
+5	1	1	0	0	26880976	0	0	26880976	0	0	1191	186.1.41.138
+5	0	0	0	70	0	0	26881000	0	0	26879934	0	146.90.118.92
+5	1	1	0	1	26880340	0	26880340	26880340	0	26880340	1191	173.44.167.157
+5	0	0	0	2	0	0	26879661	0	0	26879661	0	92.40.175.52
+5	1	0	0	1	26880155	0	26880155	26880155	0	26880155	130	154.54.249.18
+5	0	0	0	3	0	0	26881085	0	0	26880204	0	144.76.102.243
+5	1	1	0	1	26880959	0	26880959	26880959	0	26880959	1191	171.22.122.168
+5	1	1	0	1	26880280	0	26880280	26880280	0	26880280	1191	115.219.2.51
+5	0	0	0	8	0	0	26881057	0	0	26880142	0	157.55.39.95
+5	1	1	0	1	26880133	0	26880132	26880133	0	26880132	1191	47.74.84.218
+5	0	0	0	1	0	0	26880370	0	0	26880370	0	66.220.149.23
+5	0	0	0	20	0	0	26881057	0	0	26879903	0	157.55.39.87
+5	1	0	0	1	26880506	0	26880506	26880506	0	26880506	130	199.59.150.182
+5	1	0	0	1	26880506	0	26880506	26880506	0	26880506	130	199.59.150.181
+5	1	1	0	1	26879928	0	26879928	26879928	0	26879928	1191	31.220.0.186
+5	0	0	0	1	0	0	26880216	0	0	26880216	0	23.90.43.243
+5	0	0	0	1	0	0	26880539	0	0	26880539	0	217.182.168.115
+5	1	1	0	2	26879936	0	26879936	26879936	0	26879936	1191	92.204.163.66
+5	2	2	0	2	26880589	0	26880589	26879879	0	26879879	2382	196.240.254.141
+5	0	0	0	1	0	0	26880609	0	0	26880609	0	185.220.101.21
+5	0	0	0	1	0	0	26880223	0	0	26880223	0	185.220.101.20
+5	2	2	0	0	26880696	0	0	26880696	0	0	2382	103.205.5.77
+5	0	0	0	2	0	0	26879963	0	0	26879963	0	82.132.230.92
+5	1	0	0	2	26879706	0	26879706	26879706	0	26879706	130	77.75.77.32
+5	0	0	0	3	0	0	26880128	0	0	26880086	0	40.114.122.49
+5	0	0	0	1	0	0	26880744	0	0	26880744	0	199.249.230.100
+5	0	0	0	4	0	0	26880500	0	0	26880500	0	144.76.162.206
+5	1	1	0	1	26880977	0	26880977	26880977	0	26880977	1191	90.112.170.70
+5	1	1	0	1	26880699	0	26880699	26880699	0	26880699	1191	119.93.175.133
+5	1	1	0	1	26880917	0	26880917	26880917	0	26880917	1191	5.56.133.236
+5	1	0	0	0	26881012	0	0	26881012	0	0	130	157.55.39.5
+5	2	2	0	0	26880821	0	0	26880146	0	0	0	185.209.20.147
+5	2	2	0	2	26880720	0	26880720	26880300	0	26880300	2382	193.142.58.38
+5	1	0	0	1	26880025	0	26880025	26880025	0	26880025	130	77.75.77.11
+5	2	2	0	2	26880869	0	26880869	26880466	0	26880466	2382	168.151.227.134
+5	1	1	0	1	26880953	0	26880953	26880953	0	26880953	1191	92.42.255.218
+5	2	2	0	0	26880819	0	0	26880159	0	0	0	194.67.210.77
+5	2	2	0	2	26880520	0	26880520	26879777	0	26879777	2382	154.16.36.197
+5	10	10	0	10	26880813	0	26880813	26880677	0	26880677	11910	46.191.232.222
+5	1	1	0	1	26880170	0	26880170	26880170	0	26880170	1191	116.58.251.93
+5	2	1	0	0	26879853	0	0	26879853	0	0	1321	157.90.34.45
+5	1	1	0	1	26880296	0	26880296	26880296	0	26880296	1191	207.180.193.66
+5	1	1	0	2	26880664	0	26880664	26880664	0	26880260	1191	23.111.72.225
+5	1	0	0	0	26880178	0	0	26880178	0	0	130	157.55.39.16
+5	1	0	0	1	26880814	0	26880814	26880814	0	26880814	130	167.114.64.97
+5	1	1	0	1	26879783	0	26879783	26879783	0	26879783	1191	170.247.112.121
+5	0	0	0	3	0	0	26881035	0	0	26880662	0	185.191.171.9
+5	0	0	0	3	0	0	26879658	0	0	26879658	0	213.205.194.61
+5	1	0	0	2	26880441	0	26880559	26880441	0	26879918	130	185.191.171.8
+5	2	0	0	5	26880292	0	26881060	26879810	0	26880416	260	185.191.171.7
+5	0	0	0	3	0	0	26880991	0	0	26880811	0	185.191.171.6
+5	2	0	0	3	26880679	0	26880747	26880386	0	26880209	260	185.191.171.5
+5	2	0	0	3	26880940	0	26880994	26880692	0	26879810	260	185.191.171.4
+5	1	1	0	1	26880359	0	26880359	26880359	0	26880359	1191	109.147.140.210
+5	1	1	0	1	26880429	0	26880429	26880429	0	26880429	1191	139.99.20.49
+5	0	0	0	2	0	0	26880398	0	0	26880365	0	185.191.171.3
+5	0	0	0	4	0	0	26880940	0	0	26880453	0	185.191.171.2
+5	1	0	0	1	26879964	0	26879964	26879964	0	26879964	130	77.75.79.54
+5	0	0	0	1	0	0	26880220	0	0	26880220	0	185.191.171.1
+5	1	1	0	0	26880344	0	0	26880344	0	0	1191	86.133.222.248
+5	2	2	0	5	26881056	0	26880990	26880990	0	26880990	2382	86.29.71.78
+5	0	0	0	3	0	0	26880259	0	0	26880259	0	79.67.235.17
+5	2	2	0	0	26880820	0	0	26880155	0	0	0	185.224.132.45
+5	1	1	0	1	26880970	0	26880970	26880970	0	26880970	1191	45.57.212.179
+5	0	0	0	1	0	0	26880132	0	0	26880132	0	109.170.96.18
+5	1	1	0	1	26880090	0	26880090	26880090	0	26880090	1191	79.143.180.10
+5	1	1	0	1	26880383	0	26880383	26880383	0	26880383	1191	208.102.51.6
+5	0	0	0	3	0	0	26879870	0	0	26879870	0	92.40.172.159
+5	1	1	0	1	26880391	0	26880391	26880391	0	26880391	1191	134.35.86.108
+5	10	10	0	10	26880523	0	26880523	26880027	0	26880027	0	109.144.26.28
+5	1	1	0	1	26880703	0	26880703	26880703	0	26880703	1191	94.155.33.133
+5	1	1	0	1	26879961	0	26879961	26879961	0	26879961	1191	181.214.14.95
+5	1	0	0	1	26879895	0	26879895	26879895	0	26879895	130	77.75.77.101
+5	0	0	0	1	0	0	26881087	0	0	26881087	0	95.217.225.250
+5	0	0	0	1	0	0	26880135	0	0	26880135	0	107.189.10.93
+5	4	4	0	4	26881034	0	26881034	26879928	0	26879928	4764	170.130.126.223
+5	3	1	0	100	26880872	0	26880691	26880668	0	26880669	1451	173.231.59.212
+5	0	0	0	1	0	0	26881066	0	0	26881066	0	95.217.225.238
+5	1	1	0	1	26880384	0	26880383	26880384	0	26880383	1191	72.49.49.11
+5	1	1	0	0	26879855	0	0	26879855	0	0	1191	86.187.164.87
+5	1	1	0	1	26881033	0	26881033	26881033	0	26881033	1191	167.160.70.92
+5	2	2	0	8	26881015	0	26880671	26880369	0	26879965	2382	13.66.139.153
+5	0	0	0	1	0	0	26880047	0	0	26880047	0	40.85.155.39
+5	1	1	0	2	26880974	0	26880974	26880974	0	26880974	1191	193.9.115.118
+5	0	0	0	1	0	0	26879977	0	0	26879977	0	168.119.11.187
+5	1	0	0	1	26880426	0	26880426	26880426	0	26880426	130	167.114.211.237
+5	0	0	0	1	0	0	26880976	0	0	26880976	0	103.75.148.203
+5	0	0	0	4	0	0	26880500	0	0	26880500	0	88.198.43.207
+5	0	0	0	1	0	0	26881038	0	0	26881038	0	95.217.185.189
+5	1	1	0	1	26880482	0	26880482	26880482	0	26880482	1191	188.163.47.9
+5	1	1	0	1	26880959	0	26880959	26880959	0	26880959	1191	196.247.163.86
+5	0	0	0	1	0	0	26880051	0	0	26880051	0	107.152.222.61
+5	1	1	0	1	26880211	0	26880211	26880211	0	26880211	1191	94.195.20.241
+5	1	1	0	1	26880593	0	26880593	26880593	0	26880593	1191	185.236.201.215
+5	3	3	0	6	26880656	0	26880656	26879709	0	26879709	3573	185.104.184.120
+5	1	1	0	1	26880253	0	26880253	26880253	0	26880253	1191	168.151.227.16
+5	1	1	0	1	26880714	0	26880714	26880714	0	26880714	1191	173.44.227.172
+5	0	0	0	10	0	0	26880520	0	0	26879933	0	13.66.139.116
+5	0	0	0	2	0	0	26880416	0	0	26880416	0	217.115.34.254
+5	1	1	0	1	26880875	0	26880875	26880875	0	26880875	1191	185.95.159.25
+5	1	0	0	0	26880544	0	0	26880544	0	0	130	114.119.157.3
+5	1	1	0	1	26880649	0	26880649	26880649	0	26880649	1191	185.22.175.135
+5	1	1	0	1	26880666	0	26880666	26880666	0	26880666	1191	23.129.64.221
+5	0	0	0	1	0	0	26880814	0	0	26880814	0	46.4.83.150
+5	0	0	0	1	0	0	26880660	0	0	26880660	0	144.172.118.145
+5	0	0	0	1	0	0	26880134	0	0	26880134	0	31.7.61.189
+5	1	1	0	2	26880920	0	26880920	26880920	0	26880920	1191	5.253.205.20
+5	1	1	0	1	26880410	0	26880410	26880410	0	26880410	1191	62.210.83.241
+5	0	0	0	3	0	0	26881085	0	0	26881085	0	148.251.50.77
+5	0	0	0	13	0	0	26880974	0	0	26880974	0	2.51.220.115
+5	1	1	0	1	26880796	0	26880796	26880796	0	26880796	1191	45.94.235.199
+5	1	1	0	1	26880013	0	26880013	26880013	0	26880013	1191	179.61.162.153
+5	0	0	0	1	0	0	26879919	0	0	26879919	0	5.189.171.179
+5	1	1	0	1	26880743	0	26880743	26880743	0	26880743	1191	95.216.152.179
+5	0	0	0	2	0	0	26880739	0	0	26880668	0	66.249.75.223
+5	1	1	0	1	26880129	0	26880129	26880129	0	26880129	1191	23.236.168.221
+5	0	0	0	1	0	0	26880240	0	0	26880240	0	192.109.165.55
+5	1	0	0	0	26880668	0	0	26880668	0	0	130	66.249.75.221
+5	1	1	0	0	26880840	0	0	26880840	0	0	1191	159.224.244.11
+5	1	0	0	11	26880356	0	26880358	26880356	0	26880356	130	62.210.188.222
+5	1	1	0	1	26879807	0	26879807	26879807	0	26879807	1191	179.61.162.140
+5	1	1	0	1	26879673	0	26879673	26879673	0	26879673	1191	195.39.243.197
+5	0	0	0	1	0	0	26880309	0	0	26880309	0	20.190.14.200
+5	0	0	0	1	0	0	26880404	0	0	26880404	0	51.77.108.33
+5	0	0	0	1	0	0	26881035	0	0	26881035	0	168.194.83.25
+5	0	0	0	1	0	0	26881085	0	0	26881085	0	168.119.69.91
+5	0	0	0	1	0	0	26880759	0	0	26880759	0	66.249.75.192
+5	0	0	0	1	0	0	26881078	0	0	26881078	0	95.217.201.96
+5	0	0	0	2	0	0	26880878	0	0	26880878	0	111.202.100.82
+5	2	2	0	0	26880800	0	0	26880146	0	0	0	185.241.52.68
+5	1	1	0	1	26880545	0	26880545	26880545	0	26880545	1191	104.225.161.3
+5	1	1	0	1	26880673	0	26880673	26880673	0	26880673	1191	185.220.100.255
+5	0	0	0	1	0	0	26880154	0	0	26880154	0	185.220.100.251
+5	2	2	0	0	26880824	0	0	26880147	0	0	0	85.209.89.241
+5	1	0	0	0	26880286	0	0	26880286	0	0	130	114.119.154.41
+5	0	0	0	1	0	0	26881060	0	0	26881060	0	95.217.198.247
+5	1	1	0	1	26880660	0	26880660	26880660	0	26880660	1191	202.65.121.165
+5	0	0	0	1	0	0	26879659	0	0	26879659	0	135.148.33.117
+5	1	1	0	1	26880826	0	26880826	26880826	0	26880826	1191	168.90.199.52
+5	0	0	0	1	0	0	26880051	0	0	26880051	0	135.148.33.113
+5	0	0	0	1	0	0	26880275	0	0	26880275	0	185.35.202.222
+5	1	1	0	0	26880865	0	0	26880865	0	0	1191	188.18.54.130
+5	1	1	0	1	26880342	0	26880341	26880342	0	26880341	1191	45.224.255.80
+5	0	0	0	1	0	0	26879659	0	0	26879659	0	82.132.226.18
+5	1	1	0	1	26880077	0	26880077	26880077	0	26880077	1191	183.88.5.98
+5	1	1	0	1	26880338	0	26880338	26880338	0	26880338	1191	171.22.76.80
+5	2	2	0	0	26880824	0	0	26880146	0	0	0	85.209.89.224
+5	1	1	0	1	26879717	0	26879717	26879717	0	26879717	1191	46.241.120.230
+5	0	0	0	1	0	0	26880316	0	0	26880316	0	45.91.101.18
+5	2	2	0	0	26880821	0	0	26880149	0	0	0	77.220.215.153
+5	2	2	0	0	26880821	0	0	26880146	0	0	0	85.209.89.217
+5	2	2	0	0	26880824	0	0	26880146	0	0	0	85.209.89.216
+5	0	0	0	1	0	0	26880093	0	0	26880093	0	91.192.103.50
+5	2	2	0	2	26880711	0	26880711	26879854	0	26879854	2382	23.95.18.111
+5	2	2	0	0	26880823	0	0	26880163	0	0	0	185.125.219.13
+5	2	2	0	4	26881075	0	26881075	26880573	0	26880573	2382	198.144.149.253
+5	1	1	0	1	26880864	0	26880864	26880864	0	26880864	1191	148.251.9.66
+5	0	0	0	1	0	0	26880368	0	0	26880368	0	69.171.251.117
+5	1	1	0	1	26880854	0	26880854	26880854	0	26880854	1191	196.240.254.96
+5	2	2	0	0	26880824	0	0	26880146	0	0	0	85.209.89.205
+5	1	1	0	0	26880901	0	0	26880901	0	0	0	193.124.190.18
+5	3	3	0	3	26880931	0	26880931	26879851	0	26879851	3573	176.212.34.103
+5	1	1	0	1	26880855	0	26880855	26880855	0	26880855	1191	103.90.226.166
+5	0	0	0	1	0	0	26880745	0	0	26880745	0	192.42.116.17
+5	0	0	0	4	0	0	26880748	0	0	26880748	0	35.180.147.121
+5	0	0	0	25	0	0	26881090	0	0	26880002	0	13.66.139.36
+5	2	2	0	0	26880819	0	0	26880159	0	0	0	194.67.207.9
+5	1	1	0	0	26880928	0	0	26880928	0	0	1191	44.242.160.148
+5	2	2	0	0	26880821	0	0	26880146	0	0	0	212.86.109.31
+5	1	1	0	1	26880213	0	26880213	26880213	0	26880213	1191	94.181.47.232
+5	1	1	0	1	26880504	0	26880504	26880504	0	26880504	1191	188.163.46.254
+5	0	0	0	1	0	0	26880252	0	0	26880252	0	178.63.51.106
+5	1	1	0	0	26880502	0	0	26880502	0	0	1191	47.241.17.164
+5	2	2	0	0	26880320	0	0	26880295	0	0	2382	14.116.230.200
+5	1	1	0	1	26880149	0	26880149	26880149	0	26880149	1191	165.225.80.240
+5	2	2	0	1	26881025	0	26881025	26880218	0	26881025	2382	196.240.105.61
+5	0	0	0	11	0	0	26881093	0	0	26879963	0	157.55.39.214
+5	1	1	0	1	26879795	0	26879795	26879795	0	26879795	1191	135.148.2.82
+5	2	2	0	2	26880849	0	26880849	26880400	0	26880400	2382	107.174.242.123
+5	1	1	0	1	26880873	0	26880873	26880873	0	26880873	1191	172.245.179.53
+5	1	1	0	1	26880002	0	26880002	26880002	0	26880002	1191	23.231.13.132
+5	0	0	0	14	0	0	26880834	0	0	26880003	0	157.55.39.197
+5	1	1	0	1	26880817	0	26880817	26880817	0	26880817	1191	36.66.124.193
+5	1	1	0	1	26879961	0	26879961	26879961	0	26879961	1191	176.9.85.13
+5	0	0	0	1	0	0	26880229	0	0	26880229	0	139.155.80.151
+5	2	2	0	2	26879996	0	26879996	26879860	0	26879860	2382	202.142.172.10
+5	2	2	0	0	26880819	0	0	26880159	0	0	0	193.124.188.188
+5	0	0	0	1	0	0	26880605	0	0	26880605	0	109.69.67.17
+5	1	1	0	1	26880904	0	26880904	26880904	0	26880904	1191	196.240.254.55
+5	1	1	0	0	26880736	0	0	26880736	0	0	1191	51.158.186.242
+5	0	0	0	1	0	0	26880489	0	0	26880489	0	176.10.104.240
+5	1	1	0	0	26879921	0	0	26879921	0	0	1191	186.157.242.229
+5	2	1	0	0	26880754	0	0	26880754	0	0	1321	78.129.165.8
+5	1	1	0	1	26880997	0	26880997	26880997	0	26880997	1191	45.79.23.35
+5	0	0	0	2	0	0	26879756	0	0	26879756	0	91.125.174.7
+5	0	0	0	2	0	0	26879976	0	0	26879705	0	78.46.90.120
+5	1	1	0	0	26880507	0	0	26880507	0	0	1191	142.44.138.126
+5	1	1	0	1	26880734	0	26880734	26880734	0	26880734	1191	170.239.255.255
+5	0	0	0	14	0	0	26879826	0	0	26879826	0	109.152.145.206
+5	0	0	0	11	0	0	26881023	0	0	26879912	0	157.55.39.171
+5	1	1	0	1	26880698	0	26880698	26880698	0	26880698	1191	179.61.209.206
+5	0	0	0	2	0	0	26880881	0	0	26880879	0	58.250.125.185
+5	0	0	0	1	0	0	26880731	0	0	26880731	0	54.36.149.37
+5	0	0	0	2	0	0	26880011	0	0	26880011	0	86.135.197.190
+5	1	0	0	1	26880165	0	26880165	26880165	0	26880165	130	78.46.176.21
+5	1	1	0	0	26880307	0	0	26880307	0	0	1191	78.106.247.231
+5	4	4	0	3	26881085	0	26881085	26880934	0	26880934	0	109.144.218.172
+5	0	0	0	1	0	0	26881072	0	0	26881072	0	95.217.203.179
+5	0	0	0	3	0	0	26881058	0	0	26880882	0	66.249.70.1
+5	0	0	0	1	0	0	26880547	0	0	26880547	0	5.2.79.145
+5	4	2	0	0	26880278	0	0	26880225	0	0	2642	35.196.109.231
+5	1	1	0	0	26881018	0	0	26881018	0	0	1191	116.203.98.205
+5	2	2	0	0	26880800	0	0	26880146	0	0	0	45.132.107.248
+5	0	0	0	14	0	0	26881071	0	0	26879909	0	157.55.39.152
+5	0	0	0	1	0	0	26879935	0	0	26879935	0	185.220.101.6
+5	0	0	0	1	0	0	26880258	0	0	26880258	0	185.220.101.4
+5	0	0	0	7	0	0	26880445	0	0	26880441	0	82.132.222.197
+5	0	0	0	1	0	0	26879987	0	0	26879987	0	107.189.11.153
+5	0	0	0	1	0	0	26880221	0	0	26880221	0	185.220.101.1
+5	1	0	0	0	26879726	0	0	26879726	0	0	130	171.94.190.121
+5	2	2	0	0	26880456	0	0	26880055	0	0	0	86.137.129.15
+5	1	1	0	1	26880934	0	26880934	26880934	0	26880934	1191	107.158.93.69
+5	2	1	0	0	26879706	0	0	26879706	0	0	1321	35.231.59.228
+5	0	0	0	1	0	0	26880838	0	0	26880838	0	135.148.33.92
+5	1	1	0	2	26880718	0	26880718	26880718	0	26880718	1191	46.148.206.226
+5	1	1	0	1	26879684	0	26879684	26879684	0	26879684	1191	86.143.187.119
+5	1	0	0	0	26879693	0	0	26879693	0	0	130	17.58.97.234
+5	1	0	0	0	26880175	0	0	26880175	0	0	130	114.119.136.120
+5	2	2	0	0	26880954	0	0	26880214	0	0	2382	106.38.241.129
+5	1	1	0	1	26879788	0	26879788	26879788	0	26879788	1191	178.150.47.62
+5	1	1	0	1	26880556	0	26880556	26880556	0	26880556	1191	82.79.232.79
+5	0	0	0	1	0	0	26880877	0	0	26880877	0	49.7.20.104
+5	1	1	0	0	26881035	0	0	26881035	0	0	1191	62.201.233.59
+5	1	1	0	0	26879829	0	0	26879829	0	0	1191	170.106.109.160
+5	0	0	0	1	0	0	26881072	0	0	26881072	0	95.217.193.16
+5	0	0	0	2	0	0	26880844	0	0	26880834	0	40.77.167.65
+5	1	1	0	0	26880132	0	0	26880132	0	0	1191	213.230.96.243
+5	1	0	0	0	26880416	0	0	26880416	0	0	130	114.119.150.228
+5	1	1	0	1	26880161	0	26880161	26880161	0	26880161	1191	5.188.210.18
+5	2	2	0	0	26880821	0	0	26880146	0	0	0	185.203.240.129
+5	1	1	0	1	26880766	0	26880766	26880766	0	26880766	1191	184.147.26.69
+5	0	0	0	9	0	0	26880751	0	0	26879999	0	40.77.167.43
+5	1	1	0	1	26880262	0	26880262	26880262	0	26880262	1191	37.72.186.64
+5	0	0	0	1	0	0	26879726	0	0	26879726	0	51.194.17.123
+5	1	1	0	1	26880203	0	26880203	26880203	0	26880203	1191	171.224.177.163
+5	1	1	0	1	26879843	0	26879843	26879843	0	26879843	1191	49.204.92.82
+5	1	1	0	1	26880093	0	26880093	26880093	0	26880093	1191	37.72.186.190
+5	1	1	0	0	26880229	0	0	26880229	0	0	1191	185.56.80.65
+5	2	1	0	0	26880260	0	0	26880260	0	0	1321	199.16.157.183
+5	1	0	0	0	26879889	0	0	26879889	0	0	130	54.36.148.199
+5	1	0	0	1	26880571	0	26880571	26880571	0	26880571	130	199.16.157.180
+5	1	1	0	1	26880738	0	26880738	26880738	0	26880738	1191	18.221.150.209
+5	0	0	0	1	0	0	26880104	0	0	26880104	0	185.220.101.146
+5	0	0	0	2	0	0	26881079	0	0	26880892	0	66.249.70.31
+5	1	0	0	0	26880428	0	0	26880428	0	0	130	54.36.148.203
+5	1	1	0	4	26880404	0	26880666	26880404	0	26879968	1191	40.77.167.21
+5	0	0	0	8	0	0	26880743	0	0	26880057	0	40.77.167.20
+5	0	0	0	1	0	0	26880682	0	0	26880682	0	185.220.101.141
+5	1	1	0	1	26881095	0	26881095	26881095	0	26881095	1191	188.32.128.29
+5	1	1	0	1	26881024	0	26881024	26881024	0	26881024	1191	1.4.184.0
+5	0	0	0	3	0	0	26880492	0	0	26879921	0	207.46.13.99
+5	2	2	0	0	26880819	0	0	26880159	0	0	0	193.124.188.83
+5	1	1	0	1	26880423	0	26880423	26880423	0	26880423	1191	196.240.105.165
+5	1	0	0	1	26879723	0	26879723	26879723	0	26879723	130	5.9.156.30
+5	1	0	0	1	26880614	0	26880276	26880614	0	26880276	130	185.191.171.45
+5	0	0	0	4	0	0	26880005	0	0	26879700	0	185.191.171.44
+5	1	0	0	1	26879937	0	26879700	26879937	0	26879700	130	185.191.171.43
+5	0	0	0	2	0	0	26880741	0	0	26880614	0	185.191.171.42
+5	1	1	0	1	26880739	0	26880739	26880739	0	26880739	1191	96.46.146.254
+5	0	0	0	4	0	0	26880907	0	0	26879965	0	185.191.171.41
+5	3	0	0	3	26881017	0	26881017	26879884	0	26880187	390	185.191.171.40
+5	0	0	0	4	0	0	26881022	0	0	26879884	0	185.191.171.39
+z	0	58	58	26881085	0
+z	3	69	0	26881078	8970
+z	4	182	182	26881095	216762
+c	200	293	26881095
+c	304	16	26881085
+c	404	815	26881095

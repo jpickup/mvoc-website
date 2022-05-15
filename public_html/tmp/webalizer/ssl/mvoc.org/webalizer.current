@@ -1,0 +1,160 @@
+# Webalizer V2.23-08 Incremental Data - 02/08/2021 09:05:37
+2021 2 8 9 5 37
+10 9 6 2 2 4 9658 8 5 0
+4 1 4 7 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 6 7146 3 6 3
+4 3 2512 4 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 2 1321 1
+0 0 0 0
+1 1 1191 1
+4 4 4764 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 1191 1
+1 1 1191 1
+0 0 0 0
+0 0 0 0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 8 0 9528 5 1
+/robots.txt
+0 1 33181424 130 0 0
+# End Of Table - urls
+# -sites- (monthly)
+keeper-us-east-1b.mxtoolbox.com
+0 4 4 4764 1 1612694094
+/
+crawl-66-249-70-13.googlebot.com
+0 1 1 130 0 0
+-
+static.205.98.203.116.clients.your-server.de
+0 1 1 1191 1 1612775137
+/
+msnbot-13-66-139-116.search.msn.com
+0 2 2 2382 2 1612768401
+/
+crawl-66-249-70-11.googlebot.com
+0 1 0 0 0 0
+-
+142.93.13.146
+0 1 1 1191 1 1612733263
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-70-13.googlebot.com
+0 1 1 130 0 0
+-
+static.205.98.203.116.clients.your-server.de
+0 1 1 1191 1 1612775137
+/
+msnbot-13-66-139-116.search.msn.com
+0 1 1 1191 1 1612768401
+/
+crawl-66-249-70-11.googlebot.com
+0 1 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 9
+https://mvoc.org
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

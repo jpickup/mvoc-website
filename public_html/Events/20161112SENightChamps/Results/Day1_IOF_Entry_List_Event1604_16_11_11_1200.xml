@@ -1,0 +1,1691 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntryList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ExtendedIOFData.xsd">
+  <IOFVersion version="2.0.3" />
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>BKO</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Hylton</Family>
+          <Given>Ian</Given>
+        </PersonName>
+        <PersonId type="nat">738538</PersonId>
+        <BirthDate>
+          <Date>1969</Date>
+        </BirthDate>
+        <AgeClass>M45</AgeClass>
+      </Person>
+      <StartNumber>16</StartNumber>
+      <CCard>
+        <CCardId>8639632</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>11</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Clough</Family>
+          <Given>Fiona</Given>
+        </PersonName>
+        <PersonId type="nat">849434</PersonId>
+        <BirthDate>
+          <Date>1962</Date>
+        </BirthDate>
+        <AgeClass>W50</AgeClass>
+      </Person>
+      <StartNumber>36</StartNumber>
+      <CCard>
+        <CCardId>2036624</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>26</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Harper</Family>
+          <Given>Denise</Given>
+        </PersonName>
+        <PersonId type="nat">269061</PersonId>
+        <BirthDate>
+          <Date>1950</Date>
+        </BirthDate>
+        <AgeClass>W65</AgeClass>
+      </Person>
+      <StartNumber>43</StartNumber>
+      <CCard>
+        <CCardId>59064</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W65+</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>32</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Harper</Family>
+          <Given>Eric</Given>
+        </PersonName>
+        <PersonId type="nat">269062</PersonId>
+        <BirthDate>
+          <Date>1951</Date>
+        </BirthDate>
+        <AgeClass>M65</AgeClass>
+      </Person>
+      <StartNumber>44</StartNumber>
+      <CCard>
+        <CCardId>58761</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M65+</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>32</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>CHIG</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Elgood</Family>
+          <Given>Thomas</Given>
+        </PersonName>
+        <PersonId type="nat">966640</PersonId>
+        <BirthDate>
+          <Date>1964</Date>
+        </BirthDate>
+        <AgeClass>M50</AgeClass>
+      </Person>
+      <StartNumber>26</StartNumber>
+      <CCard>
+        <CCardId />
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>18</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>DFOK</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Craven</Family>
+          <Given>Philip</Given>
+        </PersonName>
+        <PersonId type="nat">450921</PersonId>
+        <BirthDate>
+          <Date>1954</Date>
+        </BirthDate>
+        <AgeClass>M60</AgeClass>
+      </Person>
+      <StartNumber>30</StartNumber>
+      <CCard>
+        <CCardId>220976</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>22</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Pitcher</Family>
+          <Given>Andrew</Given>
+        </PersonName>
+        <PersonId type="nat">140691</PersonId>
+        <BirthDate>
+          <Date>1964</Date>
+        </BirthDate>
+        <AgeClass>M50</AgeClass>
+      </Person>
+      <StartNumber>48</StartNumber>
+      <CCard>
+        <CCardId>2061483</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>35</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>GO</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Kiddier</Family>
+          <Given>Christine</Given>
+        </PersonName>
+        <PersonId type="nat">236131</PersonId>
+        <BirthDate>
+          <Date>1952</Date>
+        </BirthDate>
+        <AgeClass>W60</AgeClass>
+      </Person>
+      <StartNumber>5</StartNumber>
+      <CCard>
+        <CCardId>8630958</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>5</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Tonkin</Family>
+          <Given>Keith</Given>
+        </PersonName>
+        <PersonId type="nat">110201</PersonId>
+        <BirthDate>
+          <Date>1958</Date>
+        </BirthDate>
+        <AgeClass>M55</AgeClass>
+      </Person>
+      <StartNumber>6</StartNumber>
+      <CCard>
+        <CCardId>416779</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>5</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>King</Family>
+          <Given>Phoebe</Given>
+        </PersonName>
+        <PersonId type="nat">169698</PersonId>
+        <BirthDate>
+          <Date>2004</Date>
+        </BirthDate>
+        <AgeClass>W12</AgeClass>
+      </Person>
+      <StartNumber>17</StartNumber>
+      <CCard>
+        <CCardId />
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>Novice</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>12</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Mills-Hicks</Family>
+          <Given>Tina</Given>
+        </PersonName>
+        <PersonId type="nat">197049</PersonId>
+        <BirthDate>
+          <Date>2005</Date>
+        </BirthDate>
+        <AgeClass>W12</AgeClass>
+      </Person>
+      <StartNumber>29</StartNumber>
+      <CCard>
+        <CCardId>9064010</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>Novice</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>21</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>HH</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Fielding</Family>
+          <Given>Alex</Given>
+        </PersonName>
+        <PersonId type="nat">119143</PersonId>
+        <BirthDate>
+          <Date>2003</Date>
+        </BirthDate>
+        <AgeClass>M14</AgeClass>
+      </Person>
+      <StartNumber>18</StartNumber>
+      <CCard>
+        <CCardId>300535</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M16</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>13</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Fielding</Family>
+          <Given>Samuel</Given>
+        </PersonName>
+        <PersonId type="nat">152136</PersonId>
+        <BirthDate>
+          <Date>1998</Date>
+        </BirthDate>
+        <AgeClass>M18</AgeClass>
+      </Person>
+      <StartNumber>19</StartNumber>
+      <CCard>
+        <CCardId>7205318</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M18</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>13</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Fielding</Family>
+          <Given>Kevin</Given>
+        </PersonName>
+        <PersonId type="nat">169598</PersonId>
+        <BirthDate>
+          <Date>1968</Date>
+        </BirthDate>
+        <AgeClass>M45</AgeClass>
+      </Person>
+      <StartNumber>20</StartNumber>
+      <CCard>
+        <CCardId>642200</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>13</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Errington</Family>
+          <Given>Simon</Given>
+        </PersonName>
+        <PersonId type="nat">182971</PersonId>
+        <BirthDate>
+          <Date>1963</Date>
+        </BirthDate>
+        <AgeClass>M50</AgeClass>
+      </Person>
+      <StartNumber>40</StartNumber>
+      <CCard>
+        <CCardId>50363</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>30</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Errington</Family>
+          <Given>Helen</Given>
+        </PersonName>
+        <PersonId type="nat">182972</PersonId>
+        <BirthDate>
+          <Date>1961</Date>
+        </BirthDate>
+        <AgeClass>W55</AgeClass>
+      </Person>
+      <StartNumber>41</StartNumber>
+      <CCard>
+        <CCardId>401343</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>30</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Figg</Family>
+          <Given>Dawn</Given>
+        </PersonName>
+        <PersonId type="nat">410601</PersonId>
+        <BirthDate>
+          <Date>1969</Date>
+        </BirthDate>
+        <AgeClass>W45</AgeClass>
+      </Person>
+      <StartNumber>53</StartNumber>
+      <CCard>
+        <CCardId>235737</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>40</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Figg</Family>
+          <Given>Daniel</Given>
+        </PersonName>
+        <PersonId type="nat">458661</PersonId>
+        <BirthDate>
+          <Date>1998</Date>
+        </BirthDate>
+        <AgeClass>M18</AgeClass>
+      </Person>
+      <StartNumber>54</StartNumber>
+      <CCard>
+        <CCardId>220332</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M18</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>40</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>LOK</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Todd</Family>
+          <Given>Paul</Given>
+        </PersonName>
+        <PersonId type="nat">358081</PersonId>
+        <BirthDate>
+          <Date>1975</Date>
+        </BirthDate>
+        <AgeClass>M40</AgeClass>
+      </Person>
+      <StartNumber>1</StartNumber>
+      <CCard>
+        <CCardId>8311075</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>1</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>MV</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Pickup</Family>
+          <Given>John</Given>
+        </PersonName>
+        <PersonId type="nat">146925</PersonId>
+        <BirthDate>
+          <Date>1969</Date>
+        </BirthDate>
+        <AgeClass>M45</AgeClass>
+      </Person>
+      <StartNumber>24</StartNumber>
+      <CCard>
+        <CCardId>2072495</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>16</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>SAX</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Glaisher</Family>
+          <Given>Mark</Given>
+        </PersonName>
+        <PersonId type="nat">135681</PersonId>
+        <BirthDate>
+          <Date>1951</Date>
+        </BirthDate>
+        <AgeClass>M65</AgeClass>
+      </Person>
+      <StartNumber>7</StartNumber>
+      <CCard>
+        <CCardId>342277</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M65+</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>6</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Howes</Family>
+          <Given>Sarah</Given>
+        </PersonName>
+        <PersonId type="nat">277422</PersonId>
+        <BirthDate>
+          <Date>1959</Date>
+        </BirthDate>
+        <AgeClass>W55</AgeClass>
+      </Person>
+      <StartNumber>8</StartNumber>
+      <CCard>
+        <CCardId>590602</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>6</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Pickup</Family>
+          <Given>David</Given>
+        </PersonName>
+        <PersonId type="nat">459504</PersonId>
+        <BirthDate>
+          <Date>1970</Date>
+        </BirthDate>
+        <AgeClass>M45</AgeClass>
+      </Person>
+      <StartNumber>27</StartNumber>
+      <CCard>
+        <CCardId>1407047</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>19</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Kingdon</Family>
+          <Given>David</Given>
+        </PersonName>
+        <PersonId type="nat">275261</PersonId>
+        <BirthDate>
+          <Date>1951</Date>
+        </BirthDate>
+        <AgeClass>M65</AgeClass>
+      </Person>
+      <StartNumber>42</StartNumber>
+      <CCard>
+        <CCardId>2089662</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M65+</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>31</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>SLOW</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Carter</Family>
+          <Given>Sue</Given>
+        </PersonName>
+        <PersonId type="nat">143749</PersonId>
+        <BirthDate>
+          <Date>1967</Date>
+        </BirthDate>
+        <AgeClass>W45</AgeClass>
+      </Person>
+      <StartNumber>23</StartNumber>
+      <CCard>
+        <CCardId>8143749</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>15</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Hansen</Family>
+          <Given>Dorte Torpe</Given>
+        </PersonName>
+        <PersonId type="nat">457461</PersonId>
+        <BirthDate>
+          <Date>1966</Date>
+        </BirthDate>
+        <AgeClass>W50</AgeClass>
+      </Person>
+      <StartNumber>31</StartNumber>
+      <CCard>
+        <CCardId>1010661</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>23</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Couldridge</Family>
+          <Given>Paul</Given>
+        </PersonName>
+        <PersonId type="nat">401041</PersonId>
+        <BirthDate>
+          <Date>1974</Date>
+        </BirthDate>
+        <AgeClass>M40</AgeClass>
+      </Person>
+      <StartNumber>32</StartNumber>
+      <CCard>
+        <CCardId>1250165</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>23</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Robinson</Family>
+          <Given>Andy</Given>
+        </PersonName>
+        <PersonId type="nat">135381</PersonId>
+        <BirthDate>
+          <Date>1954</Date>
+        </BirthDate>
+        <AgeClass>M60</AgeClass>
+      </Person>
+      <StartNumber>33</StartNumber>
+      <CCard>
+        <CCardId>8632898</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>24</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Robinson</Family>
+          <Given>Christine</Given>
+        </PersonName>
+        <PersonId type="nat">135382</PersonId>
+        <BirthDate>
+          <Date>1956</Date>
+        </BirthDate>
+        <AgeClass>W60</AgeClass>
+      </Person>
+      <StartNumber>34</StartNumber>
+      <CCard>
+        <CCardId>8632891</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>24</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Mahr</Family>
+          <Given>Matthias</Given>
+        </PersonName>
+        <PersonId type="nat">375241</PersonId>
+        <BirthDate>
+          <Date>1976</Date>
+        </BirthDate>
+        <AgeClass>M40</AgeClass>
+      </Person>
+      <StartNumber>47</StartNumber>
+      <CCard>
+        <CCardId>761025</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>34</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Roper</Family>
+          <Given>Vince</Given>
+        </PersonName>
+        <PersonId type="nat">454761</PersonId>
+        <BirthDate>
+          <Date>1967</Date>
+        </BirthDate>
+        <AgeClass>M45</AgeClass>
+      </Person>
+      <StartNumber>50</StartNumber>
+      <CCard>
+        <CCardId>707007</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>37</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Haynes</Family>
+          <Given>Kathy</Given>
+        </PersonName>
+        <PersonId type="nat">136371</PersonId>
+        <BirthDate>
+          <Date>1957</Date>
+        </BirthDate>
+        <AgeClass>W55</AgeClass>
+      </Person>
+      <StartNumber>52</StartNumber>
+      <CCard>
+        <CCardId>308901</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>39</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>SO</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Hooker</Family>
+          <Given>Chris</Given>
+        </PersonName>
+        <PersonId type="nat">451651</PersonId>
+        <BirthDate>
+          <Date>1961</Date>
+        </BirthDate>
+        <AgeClass>M55</AgeClass>
+      </Person>
+      <StartNumber>2</StartNumber>
+      <CCard>
+        <CCardId>8639640</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>2</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Barrett</Family>
+          <Given>Joe</Given>
+        </PersonName>
+        <PersonId type="nat">177987</PersonId>
+        <BirthDate>
+          <Date>1963</Date>
+        </BirthDate>
+        <AgeClass>M50</AgeClass>
+      </Person>
+      <StartNumber>4</StartNumber>
+      <CCard>
+        <CCardId>444812</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>4</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Marsh</Family>
+          <Given>Liam</Given>
+        </PersonName>
+        <PersonId type="nat">461451</PersonId>
+        <BirthDate>
+          <Date>1998</Date>
+        </BirthDate>
+        <AgeClass>M18</AgeClass>
+      </Person>
+      <StartNumber>9</StartNumber>
+      <CCard>
+        <CCardId>8281298</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M18</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>7</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Marsh</Family>
+          <Given>Penny</Given>
+        </PersonName>
+        <PersonId type="nat">461453</PersonId>
+        <BirthDate>
+          <Date>1963</Date>
+        </BirthDate>
+        <AgeClass>W50</AgeClass>
+      </Person>
+      <StartNumber>10</StartNumber>
+      <CCard>
+        <CCardId>221446</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>7</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Blount</Family>
+          <Given>Jill</Given>
+        </PersonName>
+        <PersonId type="nat">334892</PersonId>
+        <BirthDate>
+          <Date>1960</Date>
+        </BirthDate>
+        <AgeClass>W55</AgeClass>
+      </Person>
+      <StartNumber>11</StartNumber>
+      <CCard>
+        <CCardId>8235520</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>8</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Blount</Family>
+          <Given>Steve</Given>
+        </PersonName>
+        <PersonId type="nat">334891</PersonId>
+        <BirthDate>
+          <Date>1960</Date>
+        </BirthDate>
+        <AgeClass>M55</AgeClass>
+      </Person>
+      <StartNumber>12</StartNumber>
+      <CCard>
+        <CCardId>8235519</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>8</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Luttman</Family>
+          <Given>Paul</Given>
+        </PersonName>
+        <PersonId type="nat">299690</PersonId>
+        <BirthDate>
+          <Date>1972</Date>
+        </BirthDate>
+        <AgeClass>M40</AgeClass>
+      </Person>
+      <StartNumber>13</StartNumber>
+      <CCard>
+        <CCardId>2049892</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>9</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Hooper</Family>
+          <Given>Mike</Given>
+        </PersonName>
+        <PersonId type="nat">455422</PersonId>
+        <BirthDate>
+          <Date>1971</Date>
+        </BirthDate>
+        <AgeClass>M45</AgeClass>
+      </Person>
+      <StartNumber>14</StartNumber>
+      <CCard>
+        <CCardId>8628552</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>10</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Hooper</Family>
+          <Given>Alison</Given>
+        </PersonName>
+        <PersonId type="nat">455421</PersonId>
+        <BirthDate>
+          <Date>1973</Date>
+        </BirthDate>
+        <AgeClass>W40</AgeClass>
+      </Person>
+      <StartNumber>15</StartNumber>
+      <CCard>
+        <CCardId>1221105</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>10</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Crickmore</Family>
+          <Given>Neil</Given>
+        </PersonName>
+        <PersonId type="nat">239441</PersonId>
+        <BirthDate>
+          <Date>1962</Date>
+        </BirthDate>
+        <AgeClass>M50</AgeClass>
+      </Person>
+      <StartNumber>21</StartNumber>
+      <CCard>
+        <CCardId>1008511</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>14</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Crickmore</Family>
+          <Given>Susan</Given>
+        </PersonName>
+        <PersonId type="nat">239442</PersonId>
+        <BirthDate>
+          <Date>1962</Date>
+        </BirthDate>
+        <AgeClass>W50</AgeClass>
+      </Person>
+      <StartNumber>22</StartNumber>
+      <CCard>
+        <CCardId>1661027</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>14</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Lambert</Family>
+          <Given>Jane</Given>
+        </PersonName>
+        <PersonId type="nat">461443</PersonId>
+        <BirthDate>
+          <Date>1960</Date>
+        </BirthDate>
+        <AgeClass>W55</AgeClass>
+      </Person>
+      <StartNumber>25</StartNumber>
+      <CCard>
+        <CCardId>333872</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>17</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Parker</Family>
+          <Given>James</Given>
+        </PersonName>
+        <PersonId type="nat">427641</PersonId>
+        <BirthDate>
+          <Date>1945</Date>
+        </BirthDate>
+        <AgeClass>M70</AgeClass>
+      </Person>
+      <StartNumber>28</StartNumber>
+      <CCard>
+        <CCardId>7300310</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M65+</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>20</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Maher</Family>
+          <Given>Roger</Given>
+        </PersonName>
+        <PersonId type="nat">135451</PersonId>
+        <BirthDate>
+          <Date>1938</Date>
+        </BirthDate>
+        <AgeClass>M75</AgeClass>
+      </Person>
+      <StartNumber>35</StartNumber>
+      <CCard>
+        <CCardId>8005555</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M65+</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>25</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Lines</Family>
+          <Given>Robert</Given>
+        </PersonName>
+        <PersonId type="nat">452541</PersonId>
+        <BirthDate>
+          <Date>1965</Date>
+        </BirthDate>
+        <AgeClass>M50</AgeClass>
+      </Person>
+      <StartNumber>38</StartNumber>
+      <CCard>
+        <CCardId>560000</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>28</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Jarvis</Family>
+          <Given>Julia</Given>
+        </PersonName>
+        <PersonId type="nat">234751</PersonId>
+        <BirthDate>
+          <Date>1968</Date>
+        </BirthDate>
+        <AgeClass>W45</AgeClass>
+      </Person>
+      <StartNumber>45</StartNumber>
+      <CCard>
+        <CCardId>50054</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>33</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Jarvis</Family>
+          <Given>Nicholas</Given>
+        </PersonName>
+        <PersonId type="nat">234753</PersonId>
+        <BirthDate>
+          <Date>1996</Date>
+        </BirthDate>
+        <AgeClass>M20</AgeClass>
+      </Person>
+      <StartNumber>46</StartNumber>
+      <CCard>
+        <CCardId>9600096</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>33</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Chapman</Family>
+          <Given>Peter</Given>
+        </PersonName>
+        <PersonId type="nat">160751</PersonId>
+        <BirthDate>
+          <Date>1964</Date>
+        </BirthDate>
+        <AgeClass>M50</AgeClass>
+      </Person>
+      <StartNumber>49</StartNumber>
+      <CCard>
+        <CCardId>8140664</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M45 - 50</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>36</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Raeside</Family>
+          <Given>Euan</Given>
+        </PersonName>
+        <PersonId type="nat">149428</PersonId>
+        <BirthDate>
+          <Date>2003</Date>
+        </BirthDate>
+        <AgeClass>M14</AgeClass>
+      </Person>
+      <StartNumber>51</StartNumber>
+      <CCard>
+        <CCardId>2057833</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M16</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>38</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="F">
+        <PersonName>
+          <Family>Hulley</Family>
+          <Given>Amy</Given>
+        </PersonName>
+        <PersonId type="nat">323803</PersonId>
+        <BirthDate>
+          <Date>1991</Date>
+        </BirthDate>
+        <AgeClass>W21</AgeClass>
+      </Person>
+      <StartNumber>55</StartNumber>
+      <CCard>
+        <CCardId>261254</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>W20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>41</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Dasey</Family>
+          <Given>John</Given>
+        </PersonName>
+        <PersonId type="nat">179905</PersonId>
+        <BirthDate>
+          <Date>1983</Date>
+        </BirthDate>
+        <AgeClass>M21</AgeClass>
+      </Person>
+      <StartNumber>56</StartNumber>
+      <CCard>
+        <CCardId>2074455</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>41</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>TVOC</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Gryaznevich</Family>
+          <Given>Mikhail</Given>
+        </PersonName>
+        <PersonId type="nat">311491</PersonId>
+        <BirthDate>
+          <Date>1954</Date>
+        </BirthDate>
+        <AgeClass>M60</AgeClass>
+      </Person>
+      <StartNumber>37</StartNumber>
+      <CCard>
+        <CCardId>7300079</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>27</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Kingham</Family>
+          <Given>Dave</Given>
+        </PersonName>
+        <PersonId type="nat">205341</PersonId>
+        <BirthDate>
+          <Date>1956</Date>
+        </BirthDate>
+        <AgeClass>M60</AgeClass>
+      </Person>
+      <StartNumber>57</StartNumber>
+      <CCard>
+        <CCardId>776776</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>42</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>WIM</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Johnson</Family>
+          <Given>Brian</Given>
+        </PersonName>
+        <PersonId type="nat">122830</PersonId>
+        <BirthDate>
+          <Date>1951</Date>
+        </BirthDate>
+        <AgeClass>M65</AgeClass>
+      </Person>
+      <StartNumber>39</StartNumber>
+      <CCard>
+        <CCardId>9101824</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M55 - 60</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>29</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+  <ClubEntry>
+    <Club>
+      <ClubId />
+      <ShortName>WSX</ShortName>
+      <CountryId value="GBR" />
+    </Club>
+    <Entry nonCompetitor="N">
+      <Person sex="M">
+        <PersonName>
+          <Family>Suba</Family>
+          <Given>Peter</Given>
+        </PersonName>
+        <PersonId type="nat">973682</PersonId>
+        <BirthDate>
+          <Date>1974</Date>
+        </BirthDate>
+        <AgeClass>M40</AgeClass>
+      </Person>
+      <StartNumber>3</StartNumber>
+      <CCard>
+        <CCardId>7789456</CCardId>
+        <PunchingUnitType value="SI" />
+      </CCard>
+      <EntryClass>
+        <ClassShortName>M20 - 40</ClassShortName>
+      </EntryClass>
+      <AllocationControl>
+        <AllocationControlType value="other" />
+        <EnvelopeNumber>3</EnvelopeNumber>
+      </AllocationControl>
+      <EntryDate>
+        <Date />
+      </EntryDate>
+    </Entry>
+  </ClubEntry>
+</EntryList>

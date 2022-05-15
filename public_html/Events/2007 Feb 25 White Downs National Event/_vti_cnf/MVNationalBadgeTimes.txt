@@ -1,0 +1,7 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|02 Mar 2007 06:55:04 -0000
+vti_extenderversion:SR|5.0.2.2623
+vti_lineageid:SR|{16670A7A-C6DA-4D05-9E50-39D4E6AB9C3F}
+vti_cacheddtm:TX|02 Mar 2007 06:55:04 -0000
+vti_filesize:IR|2539
+vti_backlinkinfo:VX|Events/2007\\ Feb\\ 25\\ White\\ Downs\\ National\\ Event/2007Feb25\\ WhiteDowns\\ National\\ Event\\ main\\ page.htm
